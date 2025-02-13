@@ -5,6 +5,8 @@ import time
 import sys
 from datetime import datetime
 from git import Repo, GitCommandError
+- name: Install dependencies
+  run: pip install -r requirements.txt
 
 # 設定下載網址與儲存路徑
 M3U_URL = "https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u"
