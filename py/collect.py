@@ -5,8 +5,15 @@ import time
 import sys
 from datetime import datetime
 from git import Repo, GitCommandError
-- name: Install dependencies
-  run: pip install -r requirements.txt
+import subprocess
+import sys
+
+try:
+    import schedule
+except ModuleNotFoundError:
+    print("未找到 `schedule`，正在安裝...")
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "schedule"])
+    import schedule  # 安裝後再引入
 
 # 設定下載網址與儲存路徑
 M3U_URL = "https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u"
