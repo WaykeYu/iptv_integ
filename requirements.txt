@@ -1,0 +1,5 @@
+touch requirements.txt
+nginx
+schedule
+requests
+gitpython
