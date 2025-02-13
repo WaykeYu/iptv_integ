@@ -1,61 +1,50 @@
-#!/bin/bash
+name: iptv_integ
 
-# GitHub 專案 URL
-GITHUB_REPO_URL="https://github.com/WaykeYu/iptv_integ.git"
-# 本地暫存目錄
-LOCAL_REPO_DIR="/tmp/iptv_integ"
-# Python 腳本目錄
-PYTHON_SCRIPTS_DIR="$LOCAL_REPO_DIR/py"
-# README 檔案路徑
-README_FILE="$LOCAL_REPO_DIR/README.md"
+on:
+  schedule:
+    - cron: '10 23 * * *' # 这里更改自动运行的时间
+  workflow_dispatch:
+    branches:
+      - main
 
-# 啟用錯誤處理
-set -e  
-trap 'echo "發生錯誤，腳本終止！"; exit 1;' ERR
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-# 下載或更新 GitHub 專案
-echo "正在處理 GitHub 專案..."
-if [ -d "$LOCAL_REPO_DIR/.git" ]; then
-    echo "目錄已存在，執行 git pull 更新..."
-    cd "$LOCAL_REPO_DIR" && git pull
-else
-    echo "目錄不存在或不是 Git 儲存庫，重新下載..."
-    rm -rf "$LOCAL_REPO_DIR"
-    git clone "$GITHUB_REPO_URL" "$LOCAL_REPO_DIR"
-fi
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-# 檢查 Python 腳本目錄是否存在
-if [ ! -d "$PYTHON_SCRIPTS_DIR" ]; then
-    echo "錯誤：Python 腳本目錄不存在 ($PYTHON_SCRIPTS_DIR)"
-    exit 1
-fi
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
 
-# 切換到 Python 腳本目錄
-cd "$PYTHON_SCRIPTS_DIR"
+      - name: Upgrade pip and install dependencies
+        run: |
+          pip install requests tqdm
+          pip install --upgrade pip
+          pip install selenium requests futures eventlet opencv-python Beautifulsoup4 translate termcolor func_timeout replace input opencc pypinyin pytz tqdm
+                
+      - name: Run py
+        run: python ${{ github.workspace }}/py/collect.py
+    
+      - name: Run py
+        run: python ${{ github.workspace }}/py/integ.py
+      
+      # readme.md
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
+          echo "過濾重覆及有效性自動檢測IPTV ${{ env.date }} " > README.md
 
-# 執行 Python 腳本
-echo "執行 collect.py..."
-python3 collect.py || exit 1
-echo "collect.py 執行成功！"
-
-echo "執行 integ.py..."
-python3 integ.py || exit 1
-echo "integ.py 執行成功！"
-
-# 更新 README.md 最後更新時間
-CURRENT_TIME=$(date +"%Y-%m-%d %H:%M:%S")
-if [ -f "$README_FILE" ]; then
-    # 檢查 README 是否已經有「最後更新時間」的標記
-    if grep -q "最後更新時間：" "$README_FILE"; then
-        # 替換舊的更新時間
-        sed -i "s/最後更新時間：.*/最後更新時間：$CURRENT_TIME/" "$README_FILE"
-    else
-        # 追加一行新的更新時間
-        echo -e "\n## 最後更新時間：$CURRENT_TIME" >> "$README_FILE"
-    fi
-    echo "README.md 更新成功！"
-else
-    echo "README.md 不存在，無法更新時間！"
-fi
-
-echo "所有腳本執行完畢！"
+      # 提交和推送的步骤，不再检查文件是否发生变化
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "actions@126.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          # 即使没有文件改变，也会提交一个空的提交
+          git commit --allow-empty -m "Scheduled workflow run"
+          git pull --rebase
+          git push -f
