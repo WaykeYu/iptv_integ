@@ -1,4 +1,4 @@
-name: iptv_integ
+name: iptv彙總
 
 on:
   schedule:
