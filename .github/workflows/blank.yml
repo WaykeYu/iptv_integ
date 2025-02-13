@@ -1,1 +1,38 @@
+#!/bin/bash
 
+# GitHub 專案 URL
+GITHUB_REPO_URL="https://github.com/WaykeYu/iptv_integ.git"
+# 本地暫存目錄
+LOCAL_REPO_DIR="/tmp/iptv_integ"
+# Python 腳本路徑
+PYTHON_SCRIPTS_DIR="$LOCAL_REPO_DIR/py"
+
+# 清理並重新下載 GitHub 專案
+echo "正在下載 GitHub 專案..."
+rm -rf "$LOCAL_REPO_DIR"  # 刪除舊的專案目錄
+git clone "$GITHUB_REPO_URL" "$LOCAL_REPO_DIR" || { echo "下載專案失敗！"; exit 1; }
+
+# 切換到 Python 腳本目錄
+cd "$PYTHON_SCRIPTS_DIR" || { echo "無法切換到目錄: $PYTHON_SCRIPTS_DIR"; exit 1; }
+
+# 執行 collect.py
+echo "開始執行 collect.py..."
+python3 collect.py
+if [ $? -eq 0 ]; then
+    echo "collect.py 執行成功！"
+else
+    echo "collect.py 執行失敗！"
+    exit 1
+fi
+
+# 執行 integ.py
+echo "開始執行 integ.py..."
+python3 integ.py
+if [ $? -eq 0 ]; then
+    echo "integ.py 執行成功！"
+else
+    echo "integ.py 執行失敗！"
+    exit 1
+fi
+
+echo "所有腳本執行完畢！"
