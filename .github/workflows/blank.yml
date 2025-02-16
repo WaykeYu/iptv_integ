@@ -1,8 +1,8 @@
 name: iptv收集及合併
 
 on:
-  schedule:
-    - cron: '10 23 * * *' # 这里更改自动运行的时间
+  #schedule:
+    #- cron: '10 23 * * *' # 这里更改自动运行的时间
   workflow_dispatch:
     branches:
       - main
