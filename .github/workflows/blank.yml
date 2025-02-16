@@ -26,7 +26,7 @@ jobs:
           pip install --upgrade pip
           pip install selenium requests futures eventlet opencv-python Beautifulsoup4 translate termcolor func_timeout replace input opencc pypinyin pytz tqdm
           pip install -r requirements.txt
-          pip install cloudscraper
+          pip install selenium webdriver-manager
 
 
       - name: Run py
