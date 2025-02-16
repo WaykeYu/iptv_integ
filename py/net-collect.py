@@ -1,31 +1,28 @@
+import cloudscraper
 import requests
 from bs4 import BeautifulSoup
 import re
 import base64
 import json
 
-# 目標 URL
+# 目標網址
 url = "https://www.yibababa.com/vod/"
 
-# 設定 User-Agent 避免被封鎖
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-}
-
-# 發送 HTTP GET 請求
-response = requests.get(url, headers=headers)
+# 使用 Cloudscraper 繞過 Cloudflare 防爬
+scraper = cloudscraper.create_scraper()
+response = scraper.get(url)
 
 if response.status_code == 200:
     soup = BeautifulSoup(response.text, "html.parser")
 
-    # 找到 <p> 標籤，style 為 "height: auto !important;"
-    target_p = soup.find("p", style="height: auto !important;")
+    # 找到 <p> 標籤，style 包含 "height: auto"
+    target_p = soup.find("p", style=lambda s: s and "height: auto" in s)
     
     if target_p:
         text_content = target_p.get_text("\n")  # 取得文字內容並換行分隔
         lines = text_content.split("\n")  # 以換行拆分
 
-        # 解析頻道名稱與 m3u8 連結
+        # 解析頻道名稱與 m3u8 直播連結
         channels = []
         pattern = re.compile(r"(.+?),\s*(http[^\s]+\.m3u8)")  # 匹配「頻道名稱, 直播源」格式
 
@@ -88,4 +85,3 @@ if response.status_code == 200:
 
 else:
     print(f"請求失敗，狀態碼：{response.status_code}")
-
