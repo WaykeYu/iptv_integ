@@ -32,11 +32,11 @@ driver.quit()
 # 印出 HTML 來檢查
 print(soup.prettify())
 
-# 找到 <p> 標籤，包含 IPTV 頻道
-target_p = soup.find("p", style=lambda s: s and "height: auto" in s)
+# 找到 <18> 標籤，包含 IPTV 頻道
+target_18 = soup.find("18", style=lambda s: s and "height: auto" in s)
 
-if target_p:
-    text_content = target_p.get_text("\n")  # 取得文字內容並換行分隔
+if target_18:
+    text_content = target_18.get_text("\n")  # 取得文字內容並換行分隔
     lines = text_content.split("\n")  # 以換行拆分
 
     # 解析頻道名稱與 m3u8 連結
@@ -54,13 +54,6 @@ if target_p:
     new_content = ""
     for name, url in channels:
         new_content += f"#EXTINF:-1, {name}\n{url}\n"
-
-    # ======== GitHub 上傳部分 ========
-    github_repo = "WaykeYu/iptv_integ"
-    github_branch = "main"
-    github_token = "your_personal_access_token"  # 需替換為你的 GitHub Token
-    github_file_path = "source/txt/adult2.txt"
-    github_api_url = f"https://api.github.com/repos/{github_repo}/contents/{github_file_path}"
 
     # 取得 GitHub 上的現有檔案內容
     response = requests.get(github_api_url, headers={"Authorization": f"token {github_token}"})
