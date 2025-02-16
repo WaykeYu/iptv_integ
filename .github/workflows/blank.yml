@@ -1,4 +1,4 @@
-name: iptv彙總
+name: iptv收集及合併
 
 on:
   schedule:
@@ -26,12 +26,15 @@ jobs:
           pip install --upgrade pip
           pip install selenium requests futures eventlet opencv-python Beautifulsoup4 translate termcolor func_timeout replace input opencc pypinyin pytz tqdm
           pip install -r requirements.txt
+
+      - name: Run py
+        run: python ${{ github.workspace }}/py/net-collect.py   
           
-      - name: Run py
-        run: python ${{ github.workspace }}/py/collect.py
+      #- name: Run py
+        #run: python ${{ github.workspace }}/py/collect.py
     
-      - name: Run py
-        run: python ${{ github.workspace }}/py/integ.py
+      #- name: Run py
+        #run: python ${{ github.workspace }}/py/integ.py
       
       # readme.md
       - name: Get current date
