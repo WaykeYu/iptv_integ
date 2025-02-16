@@ -1,12 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
-import os
 
 # 目標網頁的 URL
 url = 'https://www.yibababa.com/vod/'
 
+# 自定義請求頭
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+}
+
 # 發送 HTTP GET 請求
-response = requests.get(url)
+response = requests.get(url, headers=headers)
 
 # 檢查請求是否成功
 if response.status_code == 200:
@@ -38,36 +42,6 @@ if response.status_code == 200:
             file.write(output_content)
         
         print(f"文件 {output_file_path} 已生成。")
-        
-        # 上傳到 GitHub
-        github_repo = "https://github.com/WaykeYu/iptv_integ"
-        github_path = "main/source/txt/adult1.txt"
-        github_token = "your_github_token_here"  # 替換為你的 GitHub 個人訪問令牌
-        
-        # 讀取文件內容
-        with open(output_file_path, "r", encoding="utf-8") as file:
-            file_content = file.read()
-        
-        # 構建 GitHub API 請求
-        github_api_url = f"https://api.github.com/repos/WaykeYu/iptv_integ/contents/source/txt/adult1.txt"
-        headers = {
-            "Authorization": f"token {github_token}",
-            "Accept": "application/vnd.github.v3+json"
-        }
-        data = {
-            "message": "Add adult1.txt",
-            "content": file_content.encode("utf-8").hex(),  # 將內容轉換為十六進制
-            "branch": "main"
-        }
-        
-        # 發送 PUT 請求上傳文件
-        response = requests.put(github_api_url, json=data, headers=headers)
-        
-        if response.status_code == 201:
-            print(f"文件已成功上傳到 GitHub: {github_repo}/tree/{github_path}")
-        else:
-            print(f"上傳到 GitHub 失敗，狀態碼: {response.status_code}")
-            print(response.json())
     else:
         print("未找到指定的 <p> 標籤")
 else:
