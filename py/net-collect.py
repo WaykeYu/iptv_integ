@@ -9,10 +9,10 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 
-# 設定倉庫資訊
+# 設定 GitHub 倉庫路徑
 GITHUB_REPO_URL = "https://github.com/WaykeYu/iptv_integ.git"
-LOCAL_REPO_PATH = "/home/runner/work/iptv_integ/iptv_integ"  # 你的 GitHub Actions 目錄
-FILE_PATH = os.path.join(LOCAL_REPO_PATH, "source/txt/adult2.txt")
+LOCAL_REPO_PATH = "/home/runner/work/iptv_integ/iptv_integ"  # GitHub Actions 環境
+FILE_PATH = os.path.join(LOCAL_REPO_PATH, "source/m3u/1888.m3u")
 
 # 目標網址
 url = "https://www.yibababa.com/vod/"
@@ -47,34 +47,23 @@ for tag in soup.find_all(["p", "div", "span", "a"]):
         stream_url = match[1].strip()
         channels.append((channel_name, stream_url))
 
-# 轉換為 IPTV 播放格式
-new_content = "#EXTM3U\n"
+# 轉換為 M3U 播放格式
+m3u_content = "#EXTM3U\n"
 for name, url in channels:
-    new_content += f"#EXTINF:-1, {name}\n{url}\n"
+    m3u_content += f"#EXTINF:-1, {name}\n{url}\n"
 
 # **步驟 1：拉取 GitHub 最新版本**
 subprocess.run(["git", "pull"], cwd=LOCAL_REPO_PATH, check=True)
 
-# **步驟 2：讀取舊的 `adult2.txt`**
-if os.path.exists(FILE_PATH):
-    with open(FILE_PATH, "r", encoding="utf-8") as f:
-        existing_content = f.read()
-else:
-    existing_content = "#EXTM3U\n"
-
-# **步驟 3：合併新舊內容（避免重複）**
-all_lines = set(existing_content.strip().split("\n") + new_content.strip().split("\n"))
-final_content = "\n".join(all_lines)
-
-# **步驟 4：寫入 `adult2.txt`**
+# **步驟 2：寫入 `1888.m3u`**
 with open(FILE_PATH, "w", encoding="utf-8") as f:
-    f.write(final_content)
+    f.write(m3u_content)
 
-# **步驟 5：使用 `git` 推送到 GitHub**
+# **步驟 3：使用 `git` 推送到 GitHub**
 try:
     subprocess.run(["git", "add", FILE_PATH], cwd=LOCAL_REPO_PATH, check=True)
-    subprocess.run(["git", "commit", "-m", "更新 adult2.txt，新增頻道列表"], cwd=LOCAL_REPO_PATH, check=True)
+    subprocess.run(["git", "commit", "-m", "更新 1888.m3u，新增頻道列表"], cwd=LOCAL_REPO_PATH, check=True)
     subprocess.run(["git", "push", "origin", "main"], cwd=LOCAL_REPO_PATH, check=True)
-    print("✅ `adult2.txt` 已成功推送到 GitHub！")
+    print("✅ `1888.m3u` 已成功推送到 GitHub！")
 except subprocess.CalledProcessError as e:
     print("❌ Git 操作失敗！", e)
