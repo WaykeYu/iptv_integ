@@ -59,7 +59,13 @@ subprocess.run(["git", "pull"], cwd=LOCAL_REPO_PATH, check=True)
 with open(FILE_PATH, "w", encoding="utf-8") as f:
     f.write(m3u_content)
 
-# **步驟 3：使用 `git` 推送到 GitHub**
+
+
+# **步驟 3：設定 Git 使用者資訊**
+subprocess.run(["git", "config", "--global", "user.name", "WaykeYu"], cwd=LOCAL_REPO_PATH, check=True)
+subprocess.run(["git", "config", "--global", "user.email", "waykeyu@example.com"], cwd=LOCAL_REPO_PATH, check=True)
+
+# **步驟 4：使用 `git` 推送到 GitHub**
 try:
     subprocess.run(["git", "add", FILE_PATH], cwd=LOCAL_REPO_PATH, check=True)
     subprocess.run(["git", "commit", "-m", "更新 1888.m3u，新增頻道列表"], cwd=LOCAL_REPO_PATH, check=True)
