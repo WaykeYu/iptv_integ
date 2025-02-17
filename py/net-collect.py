@@ -65,7 +65,14 @@ with open(FILE_PATH, "w", encoding="utf-8") as f:
 subprocess.run(["git", "config", "--global", "user.name", "WaykeYu"], cwd=LOCAL_REPO_PATH, check=True)
 subprocess.run(["git", "config", "--global", "user.email", "waykeyu@example.com"], cwd=LOCAL_REPO_PATH, check=True)
 
-# **步驟 4：使用 `git` 推送到 GitHub**
+# **步驟 4：確認是否有變更**
+status_output = subprocess.run(["git", "status", "--porcelain"], cwd=LOCAL_REPO_PATH, capture_output=True, text=True)
+
+if not status_output.stdout.strip():  # 如果 `git status --porcelain` 沒有輸出，表示沒有變更
+    print("⚠️ `1888.m3u` 沒有變更，不需要提交！")
+    exit(0)  # 直接結束程式，不執行 `git commit`
+
+# **步驟 5：使用 `git` 提交並推送到 GitHub**
 try:
     subprocess.run(["git", "add", FILE_PATH], cwd=LOCAL_REPO_PATH, check=True)
     subprocess.run(["git", "commit", "-m", "更新 1888.m3u，新增頻道列表"], cwd=LOCAL_REPO_PATH, check=True)
