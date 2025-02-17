@@ -1,0 +1,58 @@
+name: IPTV 收集及合併
+
+on:
+  workflow_dispatch:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Upgrade pip and install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install selenium webdriver-manager
+
+      - name: 設定 Git 使用者資訊
+        run: |
+          git config --global user.name "WaykeYu"
+          git config --global user.email "waykeyu@example.com"
+     
+      - name: Run net-collect.py
+        run: python ${{ github.workspace }}/py/net-collect.py   
+
+      # - name: Run collect.py
+      #   run: python ${{ github.workspace }}/py/collect.py
+
+      # - name: Run integ.py
+      #   run: python ${{ github.workspace }}/py/integ.py
+      
+      - name: Update README.md
+        run: |
+          echo -e "過濾重覆及有效性自動檢測IPTV $(date +'%Y-%m-%d %H:%M:%S CST')\n" > README.md
+
+      - name: Commit and push changes (if needed)
+        run: |
+          git config --local user.email "actions@126.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          
+          # 檢查是否有變更，避免空提交
+          if ! git diff --staged --quiet; then
+            git commit -m "Scheduled workflow run"
+            git pull --rebase
+            git push -f
+          else
+            echo "No changes to commit"
+          fi
