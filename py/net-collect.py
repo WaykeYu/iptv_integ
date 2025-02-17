@@ -33,10 +33,11 @@ driver.quit()
 print(soup.prettify())
 
 # 找到 <id="18"> 標籤，包含 IPTV 頻道
-target_id="18" = soup.find("id="18"", style=lambda s: s and "height: auto" in s)
+target_p = soup.find("p", id="18", style=lambda s: s and "height: auto" in s)
 
-if target_id="18":
-    text_content = target_id="18".get_text("\n")  # 取得文字內容並換行分隔
+
+if target_p:
+    text_content = target_p.get_text("\n")  # 取得文字內容並換行分隔
     lines = text_content.split("\n")  # 以換行拆分
 
     # 解析頻道名稱與 m3u8 連結
