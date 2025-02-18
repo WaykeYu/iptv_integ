@@ -50,12 +50,12 @@ jobs:
           echo -e "過濾重覆及有效性自動檢測IPTV $(date +'%Y-%m-%d %H:%M:%S CST')\n" > README.md
 
       # 提交和推送的步骤，不再检查文件是否发生变化
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "actions@126.com"
-          git config --local user.name "GitHub Action"
-          git add .
+      #- name: Commit and push changes
+        #run: |
+          #git config --local user.email "actions@126.com"
+          #git config --local user.name "GitHub Action"
+          #git add .
           # 即使没有文件改变，也会提交一个空的提交
-          git commit --allow-empty -m "Scheduled workflow run"
-          git pull --rebase
-          git push -f
+          #git commit --allow-empty -m "Scheduled workflow run"
+          #git pull --rebase
+          #git push -f
