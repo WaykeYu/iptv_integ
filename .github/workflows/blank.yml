@@ -42,10 +42,7 @@ jobs:
       - name: Run py
         run: python ${{ github.workspace }}/py/integ.py
         
-      - name: 設定 Git 使用 HTTPS 而非 SSH
-        run: git config --global url."https://github.com/".insteadOf "git@github.com:"
-
-      
+     
       # readme.md
       - name: Get current date
         id: date
