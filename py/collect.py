@@ -9,13 +9,9 @@ BRANCH = "main"
 # 下載文件的 URL
 FILE_URLS = [
     "https://aktv.top/live.m3u",
-    "https://raw.githubusercontent.com/WaykeYu/MyTV_tw/refs/heads/main/TW_allsource"
+    "https://raw.githubusercontent.com/WaykeYu/MyTV_tw/refs/heads/main/TW_allsource",
     "https://epg.pw/test_channels_taiwan.m3u",
     "https://iptv-org.github.io/iptv/countries/tw.m3u"
-    "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
-    "http://www.lysvc.cc/live_source/1696656601/8382f1bdf4.m3u"
-    "https://raw.githubusercontent.com/TVzhiboyuandaka/zhiboyuandaka.github.io/main/20220910ZQ.m3u"
-
 ]
 
 # 存儲目錄
