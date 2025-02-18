@@ -16,7 +16,8 @@ FILE_PATH = os.path.join(LOCAL_REPO_PATH, "source/m3u/1888.m3u")
 # 爬取的目標網址
 URLS = {
     "成人/綜合頻道": "https://www.yibababa.com/vod/",
-    "台湾直播源": "https://yibababa.com/tv/#tw"
+    "台湾直播源 (yibababa)": "https://yibababa.com/tv/#tw",
+    "台湾直播源 (aktv)": "https://aktv.top/"
 }
 
 # **步驟 1：確保 GitHub 倉庫存在**
@@ -78,7 +79,7 @@ for category, url in URLS.items():
             stream_url = match[1].strip()
             
             # **台湾直播源特別分類**
-            if category == "台湾直播源":
+            if "台湾直播源" in category:
                 categories["台湾直播源"].append((channel_name, stream_url))
                 continue
 
