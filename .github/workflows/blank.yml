@@ -33,11 +33,11 @@ jobs:
          git config --global user.name "WaykeYu"
          git config --global user.email "waykeyu@example.com"
      
-      - name: Run py
-        run: python ${{ github.workspace }}/py/net-collect.py   
-          
       #- name: Run py
-        #run: python ${{ github.workspace }}/py/collect.py
+        #run: python ${{ github.workspace }}/py/net-collect.py   
+          
+      - name: Run py
+        run: python ${{ github.workspace }}/py/collect.py
     
       #- name: Run py
         #run: python ${{ github.workspace }}/py/integ.py
