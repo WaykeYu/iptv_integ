@@ -2,8 +2,8 @@ import os
 import re
 from pathlib import Path
 
-# 設定 GitHub Repo（改用 SSH）
-repo_url = "git@github.com:WaykeYu/iptv_integ.git"
+# 設定 GitHub Repo（改用 HTTPS）
+repo_url = "https://github.com/WaykeYu/iptv_integ.git"
 repo_dir = "iptv_integ"
 output_file = Path(repo_dir) / "merge.m3u"
 
@@ -45,14 +45,13 @@ with open(output_file, "w", encoding="utf-8") as f:
 
 print(f"📂 merge.m3u 已成功建立於 {output_file}")
 
-# 4. 設定 Git SSH 並推送到 GitHub
+# 4. 設定 Git 並推送到 GitHub（使用 HTTPS）
 os.chdir(repo_dir)  # 進入 repo 目錄
 os.system("git pull origin main")  # 確保是最新版本
 os.system("git add merge.m3u")
 os.system('git commit -m "自動更新合併後的 M3U 頻道列表"')
 
-# 設定 Git 使用 SSH（確保 git push 時不會要求密碼）
-os.system("git remote set-url origin git@github.com:WaykeYu/iptv_integ.git")
+# 設定 Git 使用 HTTPS（這裡不需要特別設定 remote URL，因為 clone 時已經是 HTTPS）
 os.system("git push origin main")
 
 print("🚀 merge.m3u 已成功推送至 GitHub！")
