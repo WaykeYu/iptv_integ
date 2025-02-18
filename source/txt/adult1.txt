@@ -4,7 +4,7 @@
 香蕉臺,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 松視1臺,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
 松視2臺,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
-艷臺,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8#http://52.76.174.192/pull-f5-hs.flive.pstatp.com/live/dd8290b706f514f9f656d91dd915c37a.flv	
+驚艷臺,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8#http://52.76.174.192/pull-f5-hs.flive.pstatp.com/live/dd8290b706f514f9f656d91dd915c37a.flv	
 潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
 香蕉臺,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 松視1,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
