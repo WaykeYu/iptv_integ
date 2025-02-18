@@ -1,0 +1,16 @@
+selenium
+requests
+futures
+eventlet
+opencv-python
+Beautifulsoup4
+translate
+termcolor
+func_timeout
+replace
+input
+opencc
+pypinyin
+pytz
+tqdm
+webdriver-manager
