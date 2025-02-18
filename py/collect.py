@@ -13,7 +13,10 @@ FILE_URLS = [
     "https://epg.pw/test_channels_taiwan.m3u",
     "https://iptv-org.github.io/iptv/countries/tw.m3u",
     "https://raw.githubusercontent.com/TVzhiboyuandaka/zhiboyuandaka.github.io/main/20220910ZQ.m3u",
-    "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
+    "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
+    "https://raw.githubusercontent.com/WaykeYu/iptv_integ/refs/heads/main/source/txt/4gTV.txt",
+    "https://raw.githubusercontent.com/WaykeYu/iptv_integ/refs/heads/main/source/txt/UBTV0318.txt",
+    "https://raw.githubusercontent.com/WaykeYu/iptv_integ/refs/heads/main/source/txt/adult1.txt"
 ]
 
 # 存儲目錄
