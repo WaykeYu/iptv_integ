@@ -1,4 +1,4 @@
-name: iptv收集及合併
+name: iptv收集合併濾重及確認有效性
 
 on:
   schedule:
