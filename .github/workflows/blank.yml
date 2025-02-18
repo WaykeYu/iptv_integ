@@ -34,7 +34,7 @@ jobs:
          git config --global user.email "waykeyu@example.com"
      
       - name: Run py
-        run: python ${{ github.workspace }}/py/net1888-collect.py   
+        run: python ${{ github.workspace }}/py/net-collect.py   
           
       #- name: Run py
         #run: python ${{ github.workspace }}/py/collect.py
