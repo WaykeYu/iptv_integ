@@ -36,11 +36,11 @@ jobs:
       #- name: Run py
         #run: python ${{ github.workspace }}/py/net-collect.py   
           
-      - name: Run py
-        run: python ${{ github.workspace }}/py/collect.py
-    
       #- name: Run py
-        #run: python ${{ github.workspace }}/py/integ.py
+        #run: python ${{ github.workspace }}/py/collect.py
+    
+      - name: Run py
+        run: python ${{ github.workspace }}/py/integ.py
       
       # readme.md
       - name: Get current date
