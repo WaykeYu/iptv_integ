@@ -15,8 +15,8 @@ logging.basicConfig(
 
 # 配置文件
 CONFIG = {
-    "m3u_url": "https://raw.githubusercontent.com/WaykeYu/IPTV1/refs/heads/main/Adult.m3u",
-    "save_path": "./Adult.m3u",  # 本地保存路徑
+    "m3u_url": "https://raw.githubusercontent.com/WaykeYu/iptv_integ/refs/heads/main/merge.m3u",
+    "save_path": "./merge.m3u",  # 本地保存路徑
     "max_workers": 10,  # 增加線程數
     "request_timeout": 3,  # 減少超時時間
     "random_delay": (0.1, 0.5),  # 減少隨機延遲範圍
