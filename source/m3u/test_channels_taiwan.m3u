@@ -121,9 +121,9 @@ https://stream1.freetv.fun/361593b3c754eafacde831748f8dfeeb9310975593acfd47d9207
 https://stream1.freetv.fun/588475cc83ca99f3924de1ead8d52320946655091d95b6e051c3ba42621f3ac2.ctv
 #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[BD]LOVE NATURE
 https://stream1.freetv.fun/03d07e2400e7f11ebe9cdb2588a97c80a87e4147db523bc4f7aa07a7ede2437f.ctv
-#EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[BD]LOVE NATURE
-https://stream1.freetv.fun/5c1c30fa738c19d169ce909f9210140c9c2827fe7e76e17292af2de5a53e18f7.ctv
 #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[BD]LOVE NATURE[geo-blocked]
+https://stream1.freetv.fun/5c1c30fa738c19d169ce909f9210140c9c2827fe7e76e17292af2de5a53e18f7.ctv
+#EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[BD]LOVE NATURE
 https://stream1.freetv.fun/017997b2ff4153ea76d903cdecb3276af15ce849f53b4b4121bb5598b491ddd4.ctv
 #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[BD]LOVE NATURE
 https://stream1.freetv.fun/410d4cf4b2fd4c0164a779aad899eed3c8fce3b3a0d8d249ff016642c5bfaf73.ctv
@@ -459,6 +459,8 @@ https://stream1.freetv.fun/a955778bb545a07941ec561897bcf11f9e9d32bde24b6d6f3da5d
 https://stream1.freetv.fun/26e9153177364b7c1bc7d1db50b6e9c74cc17d735c87c3863f7f8234247d8c6a.ctv
 #EXTINF:-1 tvg-name="經典電影臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/04/28/large/20230428003944893108_94.jpg" group-title="電影",[SD]经典电影
 https://stream1.freetv.fun/e34e404fc0521bb6de2d8a021eac9525d0847af3468404ce2248a1cc04b1b839.m3u8
+#EXTINF:-1 tvg-name="經典電影臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/04/28/large/20230428003944893108_94.jpg" group-title="電影",[HD]经典电影重温
+https://stream1.freetv.fun/706f237743c123540bd12b34cf0ed0751c7e91d2416d1d3619f4a4db8834108d.ctv
 #EXTINF:-1 tvg-name="緯來戲劇" tvg-id="369224" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105525808337_70.png" group-title="電影",[BD]纬来戏剧
 https://stream1.freetv.fun/56b4921591b649278f5ebc0e857875a28b2c31eed19216e6e1c4826b48afff62.m3u8
 #EXTINF:-1 tvg-name="緯來戲劇" tvg-id="369224" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105525808337_70.png" group-title="電影",[BD]緯來戲劇[geo-blocked]
