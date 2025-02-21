@@ -1,0 +1,514 @@
+2025-02-21 03:40:31,791 - INFO - 開始下載 M3U 檔案: https://raw.githubusercontent.com/WaykeYu/iptv_integ/refs/heads/main/merge.m3u
+2025-02-21 03:40:31,902 - INFO - 檔案已成功下載並保存到 ./merge.m3u
+2025-02-21 03:40:31,902 - INFO - 開始去除重複頻道並排序...
+2025-02-21 03:40:31,903 - INFO - 已去除重複頻道並排序，結果保存到 ./merge.m3u
+2025-02-21 03:40:31,903 - INFO - 開始檢查頻道有效性...
+2025-02-21 03:40:32,862 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH27 空中聖經學院 (720p) [Not 24/7]
+2025-02-21 03:40:32,875 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH16 葉光明 (720p) [Not 24/7]
+2025-02-21 03:40:32,910 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH18 國際講員 (720p) [Not 24/7]
+2025-02-21 03:40:32,935 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH15 真情之夜 (720p)
+2025-02-21 03:40:32,936 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH12 維他命施 (720p)
+2025-02-21 03:40:32,969 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH21 華語講員 (720p) [Not 24/7]
+2025-02-21 03:40:32,988 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH20 恩典時分 (720p) [Not 24/7]
+2025-02-21 03:40:33,138 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH14 真情部落格 (720p) [Not 24/7]
+2025-02-21 03:40:33,145 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH17 大衛鮑森 (720p) [Not 24/7]
+2025-02-21 03:40:33,160 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH24 劉三講古 (720p) [Not 24/7]
+2025-02-21 03:40:33,833 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH28 現代詩歌 (720p) [Not 24/7]
+2025-02-21 03:40:33,936 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH3 真情部落格 短版 (720p)
+2025-02-21 03:40:33,952 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH29 經典音樂河 (720p) [Not 24/7]
+2025-02-21 03:40:34,019 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH31 福音佈道音樂會 (720p)
+2025-02-21 03:40:34,112 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH33 特會系列：研經培靈 (720p)
+2025-02-21 03:40:34,127 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH32 特會系列：禱告與轉化 (720p) [Not 24/7]
+2025-02-21 03:40:34,258 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH40 家庭8點檔轉轉發現愛 (720p) [Not 24/7]
+2025-02-21 03:40:34,280 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH30 天堂敬拜 (720p) [Not 24/7]
+2025-02-21 03:40:34,370 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH45 卡通 (720p) [Not 24/7]
+2025-02-21 03:40:34,378 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH38 特會系列：青年特會 (720p) [Not 24/7]
+2025-02-21 03:40:34,991 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH49 禱告頻道 (720p) [Not 24/7]
+2025-02-21 03:40:34,992 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH50 國際講員 中文發音 (720p) [Not 24/7]
+2025-02-21 03:40:35,094 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7]
+2025-02-21 03:40:35,099 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH47 牧者頻道 (720p) [Not 24/7]
+2025-02-21 03:40:35,139 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH7 禱告大軍 信息 (720p)
+2025-02-21 03:40:35,266 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH5 共享觀點 短版 (720p) [Not 24/7]
+2025-02-21 03:40:35,298 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH9 愛+好醫生 短版 (720p)
+2025-02-21 03:40:35,822 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播內政委員會 (450p)
+2025-02-21 03:40:35,837 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播朝野協商 (450p)
+2025-02-21 03:40:35,839 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播司法及法制委員會 (450p)
+2025-02-21 03:40:35,840 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播交通委員會 (450p)
+2025-02-21 03:40:36,017 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播外交及國防委員會 (450p)
+2025-02-21 03:40:36,030 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播社會福利及衛生環境委員會 (450p)
+2025-02-21 03:40:36,037 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播教育及文化委員會 (450p)
+2025-02-21 03:40:36,050 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播經濟委員會 (450p)
+2025-02-21 03:40:36,115 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
+2025-02-21 03:40:36,297 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia (720p)
+2025-02-21 03:40:36,429 - INFO - 有效頻道: #EXTINF:-1 tvg-id="CTiNews.tw" tvg-logo="https://i.imgur.com/fEUmRST.png" group-title="News",中天新聞台 (1080p)
+2025-02-21 03:40:36,450 - INFO - 有效頻道: #EXTINF:-1 tvg-id="CGNTVChinese.tw" tvg-logo="https://i.imgur.com/bPoPAbR.png" group-title="Religious",CGNTV Chinese (1080p)
+2025-02-21 03:40:36,529 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播財政委員會 (450p)
+2025-02-21 03:40:36,538 - INFO - 有效頻道: #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",立法院IVOD直播院會 (450p)
+2025-02-21 03:40:36,749 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="CTSNews.tw" tvg-logo="https://i.imgur.com/V1EVtRm.png" group-title="News",CTS News (華視新聞資訊) [Geo-blocked]
+2025-02-21 03:40:36,919 - INFO - 有效頻道: #EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="Religious",Beautiful Life TV
+2025-02-21 03:40:36,943 - INFO - 有效頻道: #EXTINF:-1 tvg-id="ETMall60.tw" tvg-logo="https://i.imgur.com/jkOgbLw.png" group-title="Shop",東森購物60 (480p)
+2025-02-21 03:40:36,964 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="News",EBC News (東森新聞台) (1080p) [Not 24/7]
+2025-02-21 03:40:36,964 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="EBCFinancialNews.tw" tvg-logo="https://i.imgur.com/uFDkOhV.png" group-title="News",EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]
+2025-02-21 03:40:37,216 - INFO - 有效頻道: #EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi1 (大愛1) (720p)
+2025-02-21 03:40:37,241 - INFO - 有效頻道: #EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi2 (大愛2) (720p)
+2025-02-21 03:40:37,508 - INFO - 有效頻道: #EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-logo="https://i.imgur.com/F8ZM25a.png" group-title="Religious",EWTN Africa Asia (720p)
+2025-02-21 03:40:37,597 - INFO - 有效頻道: #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Asia-Pacific (720p) [Not 24/7]
+2025-02-21 03:40:37,675 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="FTVOne.tw" tvg-logo="https://i.imgur.com/HBT2o0I.png" group-title="General",FTV One (民視第一台) (720p) [Not 24/7]
+2025-02-21 03:40:37,675 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="General",FTV (民視) (720p) [Not 24/7]
+2025-02-21 03:40:37,681 - INFO - 有效頻道: #EXTINF:-1 tvg-id="GlobalNews.tw" tvg-logo="https://i.imgur.com/Q1Mrvjj.png" group-title="News",Global News (1080p)
+2025-02-21 03:40:37,691 - INFO - 有效頻道: #EXTINF:-1 tvg-id="DaliTV.tw" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="General",Dali TV (大立電視台) (720p)
+2025-02-21 03:40:37,745 - INFO - 有效頻道: #EXTINF:-1 tvg-id="GeniusGoGoGo.tw" tvg-logo="https://i.imgur.com/GGdnGqH.png" group-title="Entertainment",天才衝衝衝 (1080p)
+2025-02-21 03:40:37,786 - INFO - 有效頻道: #EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Asia Pacific (720p)
+2025-02-21 03:40:37,822 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="Business",CNBC Asia HD (720p) [Geo-blocked]
+2025-02-21 03:40:37,955 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="IndigenousTV.tw" tvg-logo="https://i.imgur.com/vmk4F9u.png" group-title="Culture",Indigenous TV (720p)
+2025-02-21 03:40:38,316 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="SETNews.tw" tvg-logo="https://i.imgur.com/EGVbAvJ.png" group-title="News",SET News (三立新聞) (1080p) [Geo-blocked]
+2025-02-21 03:40:38,443 - INFO - 有效頻道: #EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="Undefined",Supreme Master TV (720p)
+2025-02-21 03:40:38,491 - INFO - 有效頻道: #EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Entertainment",TVBS Asia (1080p)
+2025-02-21 03:40:38,574 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="Undefined",TV5Monde Pacifique (1080p) [Geo-blocked]
+2025-02-21 03:40:38,602 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General",РТР Планета Азия
+2025-02-21 03:40:38,616 - INFO - 有效頻道: #EXTINF:-1 tvg-id="GoodTV.tw" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="Religious",GOOD TV CH1 綜合台 (720p) [Not 24/7]
+2025-02-21 03:40:38,664 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="News",TVBS News (TVBS新聞台) [Geo-blocked]
+2025-02-21 03:40:38,734 - INFO - 有效頻道: #EXTINF:-1 tvg-id="Good2.tw" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="Religious",GOOD TV CH2 真理台 (720p)
+2025-02-21 03:40:38,785 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",维护时间：2025-1-15#佛系维护...
+2025-02-21 03:40:38,881 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="General",Taiwan Indigenous TV (原住民電視) (720p)
+2025-02-21 03:40:38,968 - INFO - 有效頻道: #EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="Undefined",TVE Internacional Europe-Asia [Geo-blocked]
+2025-02-21 03:40:39,045 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",免费订阅：请勿贩卖...
+2025-02-21 03:40:39,407 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟙𝟙「IPV4」
+2025-02-21 03:40:39,407 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟙「IPV4」
+2025-02-21 03:40:39,425 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟙𝟘「IPV4」
+2025-02-21 03:40:39,535 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="CTiVariety.tw" tvg-logo="https://i.imgur.com/tqsKObw.png" group-title="General",CTi Variety (中天綜合台) (720p)
+2025-02-21 03:40:39,695 - INFO - 有效頻道: #EXTINF:-1 tvg-id="WXTV.tw" tvg-logo="https://i.imgur.com/s8tiTeb.png" group-title="Religious",唯心電視 (480p)
+2025-02-21 03:40:39,803 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟙𝟝「IPV4」
+2025-02-21 03:40:39,810 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟙𝟛「IPV4」
+2025-02-21 03:40:39,820 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟙𝟚「IPV4」
+2025-02-21 03:40:40,176 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟙𝟡「IPV4」
+2025-02-21 03:40:40,196 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟙𝟜「IPV4」
+2025-02-21 03:40:40,196 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟙𝟟「IPV4」
+2025-02-21 03:40:40,196 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟙𝟠「IPV4」
+2025-02-21 03:40:40,392 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟚𝟚「IPV4」
+2025-02-21 03:40:40,408 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟚「IPV4」
+2025-02-21 03:40:40,411 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟙𝟞「IPV4」
+2025-02-21 03:40:40,708 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟚𝟘「IPV4」
+2025-02-21 03:40:40,727 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟚𝟙「IPV4」
+2025-02-21 03:40:40,991 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟚𝟝「IPV4」
+2025-02-21 03:40:41,047 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟚𝟞「IPV4」
+2025-02-21 03:40:41,050 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟚𝟛「IPV4」
+2025-02-21 03:40:41,064 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟚𝟜「IPV4」
+2025-02-21 03:40:41,227 - WARNING - 無效頻道: #EXTINF:-1 tvg-id="TTV.tw" tvg-logo="https://i.imgur.com/sYvwHWI.png" group-title="Undefined",台视 (720p)
+2025-02-21 03:40:41,359 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟛𝟘「IPV4」
+2025-02-21 03:40:41,364 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟚𝟠「IPV4」
+2025-02-21 03:40:41,368 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟚𝟡「IPV4」
+2025-02-21 03:40:41,370 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟚𝟟「IPV4」
+2025-02-21 03:40:41,370 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟛「IPV4」
+2025-02-21 03:40:41,831 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟛𝟛「IPV4」
+2025-02-21 03:40:41,832 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟛𝟚「IPV4」
+2025-02-21 03:40:41,838 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟛𝟜「IPV4」
+2025-02-21 03:40:41,875 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟛𝟙「IPV4」
+2025-02-21 03:40:42,230 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟛𝟝「IPV4」
+2025-02-21 03:40:42,236 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟛𝟞「IPV4」
+2025-02-21 03:40:42,237 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟝「IPV4」
+2025-02-21 03:40:42,244 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟜「IPV4」
+2025-02-21 03:40:42,245 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟛𝟠「IPV4」
+2025-02-21 03:40:42,246 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟛𝟟「IPV4」
+2025-02-21 03:40:42,481 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟟「IPV4」
+2025-02-21 03:40:42,502 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟠「IPV4」
+2025-02-21 03:40:42,624 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟞「IPV4」
+2025-02-21 03:40:42,775 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播 𝟡「IPV4」
+2025-02-21 03:40:42,893 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",晴彩少年「IPV4」
+2025-02-21 03:40:42,919 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」QQ飞车•手游
+2025-02-21 03:40:42,921 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」JJ斗地主
+2025-02-21 03:40:42,932 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",晴彩竞技「IPV4」
+2025-02-21 03:40:42,933 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」CS 2
+2025-02-21 03:40:43,018 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」使命召唤•手游
+2025-02-21 03:40:43,052 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」无畏契约
+2025-02-21 03:40:43,082 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」王者荣耀 𝟚
+2025-02-21 03:40:43,110 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」绝地求生
+2025-02-21 03:40:43,238 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」英雄联盟
+2025-02-21 03:40:43,260 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」FIFA
+2025-02-21 03:40:43,271 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",晴彩广场舞「IPV4」
+2025-02-21 03:40:43,278 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",咪咕直播4K「IPV4」
+2025-02-21 03:40:43,279 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV4」",晴彩篮球「IPV4」
+2025-02-21 03:40:43,315 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」第五人格
+2025-02-21 03:40:43,335 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」DOTA2
+2025-02-21 03:40:43,435 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」使命召唤•手游
+2025-02-21 03:40:43,437 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」王者荣耀 𝟙
+2025-02-21 03:40:43,515 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」英雄联盟•手游
+2025-02-21 03:40:43,528 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」原神
+2025-02-21 03:40:43,607 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」JJ斗地主
+2025-02-21 03:40:43,640 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」云顶之弈
+2025-02-21 03:40:43,644 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」我的世界
+2025-02-21 03:40:43,671 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」QQ飞车•手游
+2025-02-21 03:40:43,703 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」火影忍者
+2025-02-21 03:40:43,742 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」王者荣耀 𝟙
+2025-02-21 03:40:43,750 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」永劫无间
+2025-02-21 03:40:43,761 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」无畏契约
+2025-02-21 03:40:43,769 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」梦幻西游·手游
+2025-02-21 03:40:43,788 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」王者荣耀 𝟚
+2025-02-21 03:40:43,810 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」和平精英
+2025-02-21 03:40:43,913 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」热门赛事
+2025-02-21 03:40:43,985 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」跑跑卡丁车•手游
+2025-02-21 03:40:44,010 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」穿越火线 𝟚
+2025-02-21 03:40:44,112 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」绝地求生
+2025-02-21 03:40:44,138 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」第五人格
+2025-02-21 03:40:44,141 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」街霸
+2025-02-21 03:40:44,158 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」英雄联盟 𝟙
+2025-02-21 03:40:44,160 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」穿越火线 𝟙
+2025-02-21 03:40:44,237 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」英雄联盟 𝟚
+2025-02-21 03:40:44,260 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」金铲铲之战
+2025-02-21 03:40:44,265 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」跑跑卡丁车
+2025-02-21 03:40:44,277 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",七龙珠「解说」
+2025-02-21 03:40:44,307 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",互扇巴掌大赛「其他」
+2025-02-21 03:40:44,341 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",中华小当家「动漫」
+2025-02-21 03:40:44,386 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",挨饿德•1「其他」
+2025-02-21 03:40:44,388 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",动漫•1「解说」
+2025-02-21 03:40:44,436 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",七龙珠「动漫」
+2025-02-21 03:40:44,458 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",止戈电影「解说」
+2025-02-21 03:40:44,470 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",恐怖电影「解说」
+2025-02-21 03:40:44,494 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",漫威「解说」
+2025-02-21 03:40:44,496 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",哆啦A梦「动漫」
+2025-02-21 03:40:44,522 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•1「解说」
+2025-02-21 03:40:44,614 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",治愈•放松「音乐」
+2025-02-21 03:40:44,633 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电视剧•2「解说」
+2025-02-21 03:40:44,648 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",猫和老鼠「动漫」
+2025-02-21 03:40:44,674 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",航海王「动漫」
+2025-02-21 03:40:44,715 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",挨饿德•2「其他」
+2025-02-21 03:40:44,746 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•2「解说」
+2025-02-21 03:40:44,772 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",荒野求生「其他」
+2025-02-21 03:40:44,778 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",美剧「解说」
+2025-02-21 03:40:44,871 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•3「解说」
+2025-02-21 03:40:44,884 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",音乐石榴「音乐」
+2025-02-21 03:40:44,894 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电视剧•1「解说」
+2025-02-21 03:40:44,957 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",茶啊二中「动画」
+2025-02-21 03:40:45,012 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」和平精英
+2025-02-21 03:40:45,042 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」DOTA2
+2025-02-21 03:40:45,056 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",跳舞「其他」
+2025-02-21 03:40:45,057 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",野行者「其他」
+2025-02-21 03:40:45,059 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」使命召唤•手游
+2025-02-21 03:40:45,063 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",阅读•学习「音乐」
+2025-02-21 03:40:45,190 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",音乐速递「音乐」
+2025-02-21 03:40:45,201 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」CS 2
+2025-02-21 03:40:45,247 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」绝地求生 𝟙
+2025-02-21 03:40:45,251 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」永劫无间
+2025-02-21 03:40:45,282 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」第五人格
+2025-02-21 03:40:45,343 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」无畏契约
+2025-02-21 03:40:45,364 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」穿越火线
+2025-02-21 03:40:45,453 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」绝地求生 𝟚
+2025-02-21 03:40:45,468 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」王者荣耀 𝟚
+2025-02-21 03:40:45,486 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」王者荣耀 𝟙
+2025-02-21 03:40:45,543 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="115新天地民俗臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222702096387_48.png" group-title="其它",[BD]115新天地民俗[geo-blocked]
+2025-02-21 03:40:45,559 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="115新天地民俗臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222702096387_48.png" group-title="其它",[BD]「河南」新野综合[geo-blocked]
+2025-02-21 03:40:45,560 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」穿越火线•手游
+2025-02-21 03:40:45,592 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」逆战
+2025-02-21 03:40:45,598 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」英雄联盟 𝟙
+2025-02-21 03:40:45,669 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」金铲铲之战
+2025-02-21 03:40:45,688 - WARNING - 無效頻道: #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」英雄联盟 𝟚
+2025-02-21 03:40:45,747 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Animax TW" tvg-id="368800" tvg-country="台灣" tvg-language="日語" tvg-logo="https://epg.pw/media/images/channel/2024/04/05/large/20240405115216468027_24.png" group-title="兒童",[BD]Animax[geo-blocked]
+2025-02-21 03:40:45,849 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="BBC Earth(tw)" tvg-id="368613" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717234812634336_85.jpg" group-title="知識",[HD]英国bbcearth
+2025-02-21 03:40:45,903 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="AMC電影" tvg-id="368844" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/02/22/large/20240222154625543566_76.png" group-title="電影",[HD]amc最愛電影
+2025-02-21 03:40:45,985 - INFO - 有效頻道: #EXTINF:-1 tvg-name="Astro iQIYI" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Astro iQIYI
+2025-02-21 03:40:45,995 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="音樂",[BD]shop channel
+2025-02-21 03:40:46,003 - INFO - 有效頻道: #EXTINF:-1 tvg-name="AXN" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",AXN
+2025-02-21 03:40:46,011 - INFO - 有效頻道: #EXTINF:-1 tvg-name="28 AI 智慧賽馬" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",28 AI 智慧賽馬
+2025-02-21 03:40:46,027 - INFO - 有效頻道: #EXTINF:-1 tvg-name="Animax(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Animax(HK)
+2025-02-21 03:40:46,088 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="音樂",[BD]bike channel
+2025-02-21 03:40:46,229 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="音樂",[BD]tribeca channel[geo-blocked]
+2025-02-21 03:40:46,236 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="音樂",[BD]whe channel[geo-blocked]
+2025-02-21 03:40:46,263 - INFO - 有效頻道: #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Astro AEC
+2025-02-21 03:40:46,274 - INFO - 有效頻道: #EXTINF:-1 tvg-name="Astro Xing He" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Astro Xing He
+2025-02-21 03:40:46,289 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="音樂",[HD]tennis channel
+2025-02-21 03:40:46,316 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="音樂",[BD]white channel
+2025-02-21 03:40:46,340 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="音樂",[BD]tennis channel[geo-blocked]
+2025-02-21 03:40:46,367 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="音樂",[BD]ᴼᴺe channel
+2025-02-21 03:40:46,449 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="音樂",[HD]sağlik channel
+2025-02-21 03:40:46,465 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CINEMAX(TW)" tvg-id="334710" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601221557788215_67.png" group-title="電影",[BD]Cinemax
+2025-02-21 03:40:46,466 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="音樂",[HD]gs channel
+2025-02-21 03:40:46,560 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="音樂",[VGA]akaal channel
+2025-02-21 03:40:46,673 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="音樂",[SD]bn channel
+2025-02-21 03:40:46,698 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CHANNEL [V]" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg" group-title="音樂",[VGA]miracle channel
+2025-02-21 03:40:46,729 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CN卡通頻道" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2018/07/05/large/20180705143420676538_59.png" group-title="兒童",[BD]CN卡通
+2025-02-21 03:40:46,768 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="CMusic" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090457244729_96.png" group-title="綜藝",[HD]qmusic
+2025-02-21 03:40:46,819 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="DAZN 2(TW)" tvg-id="368602" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/04/24/large/20240424025006167243_40.png" group-title="運動",[BD]dazn ringside
+2025-02-21 03:40:46,939 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="DISCOVERY Channel" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027204508285802_37.png" group-title="知識",[HD]discovery channel
+2025-02-21 03:40:46,940 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="DAZN 1(TW)" tvg-id="369288" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/04/24/large/20240424024936868909_61.png" group-title="運動",[BD]dazn portugues
+2025-02-21 03:40:46,986 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="DAZN 1(TW)" tvg-id="369288" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/04/24/large/20240424024936868909_61.png" group-title="運動",[BD]dazn combat
+2025-02-21 03:40:46,992 - INFO - 有效頻道: #EXTINF:-1 tvg-name="Channel U HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Channel U HD
+2025-02-21 03:40:47,020 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="DISCOVERY Channel" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027204508285802_37.png" group-title="知識",[BD]discovery channel cee hd[geo-blocked]
+2025-02-21 03:40:47,063 - INFO - 有效頻道: #EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Channel 5 HD
+2025-02-21 03:40:47,075 - INFO - 有效頻道: #EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Channel 8 HD
+2025-02-21 03:40:47,104 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="DISCOVERY Channel" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027204508285802_37.png" group-title="知識",[BD]discovery channel
+2025-02-21 03:40:47,146 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Discovery(TW)" tvg-id="368930" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png" group-title="知識",[HD]discoveryhd
+2025-02-21 03:40:47,259 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Discovery(TW)" tvg-id="368930" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png" group-title="知識",[BD]discovery theater
+2025-02-21 03:40:47,298 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="ELTA體育1(備用)" tvg-id="368589" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/11/18/large/20241118091830413331_76.png" group-title="運動",[BD]elta奥运7
+2025-02-21 03:40:47,298 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="ELTA體育4(備用)" tvg-id="368592" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="運動",[BD]delta tv
+2025-02-21 03:40:47,325 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Eleven Sports2" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="運動",[BD]eleven sports 2
+2025-02-21 03:40:47,386 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="ELTA影劇HD" tvg-id="368793" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113053852611_32.png" group-title="電影",[HD]elta影剧
+2025-02-21 03:40:47,398 - INFO - 有效頻道: #EXTINF:-1 tvg-name="DW" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",DW
+2025-02-21 03:40:47,404 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="ELTA體育4(備用)" tvg-id="368592" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png" group-title="運動",[HD]delta tv
+2025-02-21 03:40:47,440 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Eleven sports" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/02/20170302200527557763_75.png" group-title="運動",[BD]eleven sports 3
+2025-02-21 03:40:47,472 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Eleven Sports1" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="運動",[BD]eleven sports 1
+2025-02-21 03:40:47,497 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="ELTA體育2(備用)" tvg-id="368590" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125055335647139_92.png" group-title="運動",[BD]cct4美洲[geo-blocked]
+2025-02-21 03:40:47,500 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Eleven sports" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/02/20170302200527557763_75.png" group-title="運動",[BD]eleven sports 1[geo-blocked]
+2025-02-21 03:40:47,509 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="ELTA體育1(備用)" tvg-id="368589" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/11/18/large/20241118091830413331_76.png" group-title="運動",[VGA]tv turfe
+2025-02-21 03:40:47,661 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Food Network(TW)" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png" group-title="其它",[VGA]food[geo-blocked]
+2025-02-21 03:40:47,662 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Eleven Sports2" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="運動",[BD]eleven sports 2 pl
+2025-02-21 03:40:47,666 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="電影",[BD]young hollywood[geo-blocked]
+2025-02-21 03:40:47,672 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Eleven sports" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/02/20170302200527557763_75.png" group-title="運動",[HD]elevensport ⁴ᴷ
+2025-02-21 03:40:47,704 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="電影",[SD]hollywood
+2025-02-21 03:40:47,714 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="電影",[BD]young hollywood
+2025-02-21 03:40:47,715 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="電影",[BD]hollywood
+2025-02-21 03:40:47,752 - INFO - 有效頻道: #EXTINF:-1 tvg-name="France 24" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",France 24
+2025-02-21 03:40:47,822 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[BD]LOVE NATURE
+2025-02-21 03:40:47,862 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="電影",[BD]hollywood classics
+2025-02-21 03:40:47,862 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Hollywood" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png" group-title="電影",[HD]made in hollywood
+2025-02-21 03:40:47,886 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[BD]LOVE NATURE[geo-blocked]
+2025-02-21 03:40:48,032 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[BD]love nature[geo-blocked]
+2025-02-21 03:40:48,059 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[BD]love nature en espanol[geo-blocked]
+2025-02-21 03:40:48,111 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[BD]love nature ⁴ᵏ
+2025-02-21 03:40:48,149 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[SD]LOVE NATURE[geo-blocked]
+2025-02-21 03:40:48,161 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[BD]love nature ʜᴅ
+2025-02-21 03:40:48,161 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[HD]love nature 4k
+2025-02-21 03:40:48,164 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[BD]love nature
+2025-02-21 03:40:48,250 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="MEZZO LIVE(TW)" tvg-id="370197" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/08/14/large/20240814094908863860_80.png" group-title="音樂",[VGA]mezzo[geo-blocked]
+2025-02-21 03:40:48,289 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[SD]lovenature4k
+2025-02-21 03:40:48,304 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Nat Geo(TW)" tvg-id="" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601220556736344_25.png" group-title="知識",[HD]nat geo
+2025-02-21 03:40:48,313 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Love Nature" tvg-id="368607" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg" group-title="知識",[BD]lovenature4k
+2025-02-21 03:40:48,400 - INFO - 有效頻道: #EXTINF:-1 tvg-name="KIX" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",KIX
+2025-02-21 03:40:48,404 - INFO - 有效頻道: #EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Love Nature HD
+2025-02-21 03:40:48,422 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="PET CLUB TV" tvg-id="368671" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210221839864411_20.png" group-title="其它",[BD]pet club tv
+2025-02-21 03:40:48,522 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Rollor TV" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513163637437470_26.jpg" group-title="綜合",[HD]folklore tv
+2025-02-21 03:40:48,770 - INFO - 有效頻道: #EXTINF:-1 tvg-name="ROCK Action" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ROCK Action
+2025-02-21 03:40:48,777 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="TVBS Asia" tvg-id="3509" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="綜合",[BD]TVBS Asia
+2025-02-21 03:40:48,803 - INFO - 有效頻道: #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Nick Jr
+2025-02-21 03:40:48,819 - INFO - 有效頻道: #EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",NHK World-Japan
+2025-02-21 03:40:48,821 - INFO - 有效頻道: #EXTINF:-1 tvg-name="NHK東京総合" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",NHK東京総合
+2025-02-21 03:40:48,841 - INFO - 有效頻道: #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Nickelodeon
+2025-02-21 03:40:48,947 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="TVBS Asia" tvg-id="3509" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="綜合",[BD]tvbs asia
+2025-02-21 03:40:48,997 - INFO - 有效頻道: #EXTINF:-1 tvg-name="PopC" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",PopC
+2025-02-21 03:40:49,004 - INFO - 有效頻道: #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVB Plus
+2025-02-21 03:40:49,021 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="TVBS" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162515629145_45.png" group-title="綜合",[BD]tvbs
+2025-02-21 03:40:49,054 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="TVBS綜合" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2017/03/05/large/20170305021031030605_79.png" group-title="綜合",[BD]tvb1综合[geo-blocked]
+2025-02-21 03:40:49,130 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Taiwan Plus" tvg-id="368832" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126155629392519_70.jpg" group-title="新聞",[BD]taiwan plus tv[geo-blocked]
+2025-02-21 03:40:49,159 - INFO - 有效頻道: #EXTINF:-1 tvg-name="TVBS-新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVBS-新聞台
+2025-02-21 03:40:49,204 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="TVBS歡樂臺HD" tvg-id="370191" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055954129777_18.png" group-title="綜藝",[BD]tvbs欢乐台
+2025-02-21 03:40:49,257 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="TVBS歡樂臺HD" tvg-id="370191" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055954129777_18.png" group-title="綜藝",[BD]tvbs欢乐
+2025-02-21 03:40:49,301 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="TVBS新聞FHD" tvg-id="369244" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305142255327491_59.png" group-title="新聞",[BD]TVBS新闻[geo-blocked]
+2025-02-21 03:40:49,324 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="TVN(TW)" tvg-id="368802" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/06/05/large/20240605164735768642_24.png" group-title="綜藝",[BD]tvn
+2025-02-21 03:40:49,339 - INFO - 有效頻道: #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVBS
+2025-02-21 03:40:49,471 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="三立國際" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721172327537671_35.png" group-title="新聞",[SD]三立国际[geo-blocked]
+2025-02-21 03:40:49,489 - INFO - 有效頻道: #EXTINF:-1 tvg-name="ZooMoo" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ZooMoo
+2025-02-21 03:40:49,524 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="Taiwan Plus" tvg-id="368832" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126155629392519_70.jpg" group-title="新聞",[SD]taiwan plus
+2025-02-21 03:40:49,526 - INFO - 有效頻道: #EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",myTV SUPER 18台
+2025-02-21 03:40:49,588 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="三立戲劇" tvg-id="368788" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721172523829915_30.png" group-title="電影",[HD]三立戏剧
+2025-02-21 03:40:49,673 - INFO - 有效頻道: #EXTINF:-1 tvg-name="Thrill" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Thrill
+2025-02-21 03:40:49,683 - INFO - 有效頻道: #EXTINF:-1 tvg-name="viutv6 96" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",viutv6 96
+2025-02-21 03:40:49,696 - INFO - 有效頻道: #EXTINF:-1 tvg-name="i-Fun 動漫台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",i-Fun 動漫台
+2025-02-21 03:40:49,699 - INFO - 有效頻道: #EXTINF:-1 tvg-name="viutv 99" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",viutv 99
+2025-02-21 03:40:49,702 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="三立新聞" tvg-id="369243" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721173220819747_86.png" group-title="新聞",[BD]三立新闻[geo-blocked]
+2025-02-21 03:40:49,715 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="三立臺灣" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721172617203804_84.png" group-title="綜合",[BD]三立台湾
+2025-02-21 03:40:49,729 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="三立新聞" tvg-id="369243" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721173220819747_86.png" group-title="新聞",[HD]三立新闻
+2025-02-21 03:40:49,749 - INFO - 有效頻道: #EXTINF:-1 tvg-name="tvN" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",tvN
+2025-02-21 03:40:49,768 - INFO - 有效頻道: #EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",中天亞洲台
+2025-02-21 03:40:49,774 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="中天娛樂HD" tvg-id="369183" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/01/14/large/20160114210645647968_28.jpg" group-title="綜藝",[BD]中天娱乐
+2025-02-21 03:40:49,830 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="中天新聞" tvg-id="370177" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711224446764842_40.jpg" group-title="新聞",[BD]中天新聞
+2025-02-21 03:40:49,910 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="中天新聞" tvg-id="370177" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711224446764842_40.jpg" group-title="新聞",[HD]中天新闻[geo-blocked]
+2025-02-21 03:40:49,978 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="中視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221412936937_72.png" group-title="綜合",[BD]中視
+2025-02-21 03:40:49,983 - INFO - 有效頻道: #EXTINF:-1 tvg-name="中視" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",中視
+2025-02-21 03:40:50,058 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="中天娛樂HD" tvg-id="369183" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/01/14/large/20160114210645647968_28.jpg" group-title="綜藝",[HD]中天娱乐
+2025-02-21 03:40:50,086 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="中天綜合HD" tvg-id="369192" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/01/15/large/20190115233042115640_98.jpg" group-title="綜合",[BD]中天综合
+2025-02-21 03:40:50,119 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="中視新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221808922798_13.jpg" group-title="新聞",[HD]中视新闻[geo-blocked]
+2025-02-21 03:40:50,156 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="人間衛視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="其它",[BD]人間衛視
+2025-02-21 03:40:50,167 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="中視新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221808922798_13.jpg" group-title="新聞",[BD]中视新闻
+2025-02-21 03:40:50,175 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="人間衛視" tvg-id="368923" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="其它",[BD]人间衛視
+2025-02-21 03:40:50,199 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="中天新聞" tvg-id="370177" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711224446764842_40.jpg" group-title="新聞",[HD]中天新闻
+2025-02-21 03:40:50,261 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="亞洲旅遊臺" tvg-id="368733" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2018/03/11/large/20180311221333244935_31.png" group-title="其它",[BD]亚洲旅游
+2025-02-21 03:40:50,264 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="八大戲劇HD" tvg-id="369226" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png" group-title="電影",[HD]八大戏剧
+2025-02-21 03:40:50,266 - INFO - 有效頻道: #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",中天新聞台
+2025-02-21 03:40:50,299 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="八大綜合" tvg-id="368953" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720154712065553_65.png" group-title="綜合",[BD]八大综合
+2025-02-21 03:40:50,335 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="人間衛視" tvg-id="368923" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg" group-title="其它",[HD]人间卫视
+2025-02-21 03:40:50,349 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="八大綜合" tvg-id="368953" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720154712065553_65.png" group-title="綜合",[HD]八大綜合
+2025-02-21 03:40:50,399 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="八大第1臺HD" tvg-id="368943" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720154758414370_68.png" group-title="綜藝",[BD]八大第一
+2025-02-21 03:40:50,399 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="公視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724132344493469_30.png" group-title="綜合",[BD]公視
+2025-02-21 03:40:50,430 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="八大戲劇HD" tvg-id="369226" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png" group-title="電影",[BD]八大戏剧
+2025-02-21 03:40:50,465 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="公視二臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044539624048_42.png" group-title="綜合",[BD]ptsxs小公視1080
+2025-02-21 03:40:50,482 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="八大綜合" tvg-id="368953" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720154712065553_65.png" group-title="綜合",[SD]八大综合
+2025-02-21 03:40:50,558 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="公視HD" tvg-id="368562" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724132219452361_49.png" group-title="綜合",[HD]公视
+2025-02-21 03:40:50,645 - INFO - 有效頻道: #EXTINF:-1 tvg-name="亞洲新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",亞洲新聞台
+2025-02-21 03:40:50,666 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="國家地理悠人頻道(臺灣)" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/23/20170523231844375974_61.png" group-title="綜合",[VGA]ahuei-TaiwanPLUS
+2025-02-21 03:40:50,668 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="台視新聞" tvg-id="368814" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png" group-title="新聞",[BD]台视新闻
+2025-02-21 03:40:50,692 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="公視二臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044539624048_42.png" group-title="綜合",[HD]ptsxs小公視720
+2025-02-21 03:40:50,741 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="台視新聞" tvg-id="368814" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png" group-title="新聞",[BD]台視新聞
+2025-02-21 03:40:50,741 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="公視二臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044539624048_42.png" group-title="綜合",[VGA]ptsxs小公視360
+2025-02-21 03:40:50,742 - INFO - 有效頻道: #EXTINF:-1 tvg-name="千禧經典台(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",千禧經典台(HK)
+2025-02-21 03:40:50,770 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="台視HD" tvg-id="368558" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092817835507_62.png" group-title="綜合",[HD]台视
+2025-02-21 03:40:50,808 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="壹新聞" tvg-id="368817" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/12/24/large/20161224235554075606_20.png" group-title="新聞",[HD]闽壹新闻[geo-blocked]
+2025-02-21 03:40:50,902 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="大愛" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/893ad6bbc78b8f994774751143496a31.jpg" group-title="其它",[HD]大爱1
+2025-02-21 03:40:50,918 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="國會頻道1" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513171825260672_88.jpg" group-title="綜合",[HD]國會 1
+2025-02-21 03:40:50,967 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="唯心電視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512231926730574_47.jpg" group-title="其它",[VGA]唯心電視
+2025-02-21 03:40:51,092 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="大愛2" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2015/05/21/large/20150521014333336253_94.png" group-title="其它",[HD]大爱2
+2025-02-21 03:40:51,111 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="大愛" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/893ad6bbc78b8f994774751143496a31.jpg" group-title="其它",[HD]大爱1台
+2025-02-21 03:40:51,122 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="大愛2" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2015/05/21/large/20150521014333336253_94.png" group-title="其它",[BD]大爱2台
+2025-02-21 03:40:51,127 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="大愛2" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2015/05/21/large/20150521014333336253_94.png" group-title="其它",[HD]大爱2台
+2025-02-21 03:40:51,145 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="國會頻道2" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513171909653190_67.jpg" group-title="綜合",[HD]國會頻道2
+2025-02-21 03:40:51,154 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="好訊息" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126210954040708_43.jpg" group-title="其它",[VGA]好消息
+2025-02-21 03:40:51,159 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="大愛" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/893ad6bbc78b8f994774751143496a31.jpg" group-title="其它",[HD]大爱
+2025-02-21 03:40:51,202 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="大愛2" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2015/05/21/large/20150521014333336253_94.png" group-title="其它",[BD]大愛2
+2025-02-21 03:40:51,293 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="大愛2" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2015/05/21/large/20150521014333336253_94.png" group-title="其它",[HD]大愛2
+2025-02-21 03:40:51,308 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="寰宇新聞" tvg-id="368812" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724134213849437_33.png" group-title="新聞",[HD]寰宇新闻
+2025-02-21 03:40:51,356 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="寰宇新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724134624405697_90.png" group-title="新聞",[BD]寰宇新聞
+2025-02-21 03:40:51,369 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="好訊息" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126210954040708_43.jpg" group-title="其它",[HD]好消息
+2025-02-21 03:40:51,401 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="寰宇新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724134624405697_90.png" group-title="新聞",[BD]寰宇新聞[geo-blocked]
+2025-02-21 03:40:51,630 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="年代新聞HD" tvg-id="369247" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/8889e6b27f2bf5143f6c0f3b0ec452f6.jpg" group-title="新聞",[BD]年代新闻[geo-blocked]
+2025-02-21 03:40:51,644 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="寰宇財經" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210902132399_36.png" group-title="新聞",[VGA]寰宇财经
+2025-02-21 03:40:51,646 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="寰宇新聞" tvg-id="368812" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724134213849437_33.png" group-title="新聞",[HD]寰宇新闻[geo-blocked]
+2025-02-21 03:40:51,668 - INFO - 有效頻道: #EXTINF:-1 tvg-name="娛樂新聞台(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",娛樂新聞台(HK)
+2025-02-21 03:40:51,680 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森亞洲新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/02/17/20180217150650283018_64.jpg" group-title="新聞",[BD]东森美洲新闻
+2025-02-21 03:40:51,729 - INFO - 有效頻道: #EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",寰宇新聞台
+2025-02-21 03:40:51,750 - INFO - 有效頻道: #EXTINF:-1 tvg-name="明珠台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",明珠台
+2025-02-21 03:40:51,811 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森亞洲新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/02/17/20180217150650283018_64.jpg" group-title="新聞",[SD]东森亚洲新闻
+2025-02-21 03:40:51,834 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森幼幼" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/10/24/large/20221024221936025013_58.jpg" group-title="兒童",[BD]東森幼幼[geo-blocked]
+2025-02-21 03:40:51,923 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/20/20150920205542211030_19.jpg" group-title="新聞",[BD]东森新闻
+2025-02-21 03:40:51,926 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森幼幼" tvg-id="271829" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/14/large/20230614213059204205_66.png" group-title="兒童",[BD]东森幼幼
+2025-02-21 03:40:51,958 - INFO - 有效頻道: #EXTINF:-1 tvg-name="无线新闻台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",无线新闻台(北美)
+2025-02-21 03:40:51,976 - INFO - 有效頻道: #EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",明珠剧集台(北美)
+2025-02-21 03:40:52,038 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/20/20150920205542211030_19.jpg" group-title="新聞",[HD]东森新闻[geo-blocked]
+2025-02-21 03:40:52,046 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森戲劇" tvg-id="369227" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722110033521210_50.png" group-title="電影",[BD]东森戏剧
+2025-02-21 03:40:52,070 - INFO - 有效頻道: #EXTINF:-1 tvg-name="東方衛視國際頻道" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",東方衛視國際頻道
+2025-02-21 03:40:52,099 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森戲劇" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126213003695910_75.jpg" group-title="電影",[BD]東森戲劇[geo-blocked]
+2025-02-21 03:40:52,130 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森綜合" tvg-id="369188" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105831030948_83.png" group-title="綜合",[BD]东森综合
+2025-02-21 03:40:52,175 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森綜合" tvg-id="369188" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105831030948_83.png" group-title="綜合",[BD]东森综合[geo-blocked]
+2025-02-21 03:40:52,176 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森幼幼臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719100412963431_50.png" group-title="兒童",[BD]东森幼幼
+2025-02-21 03:40:52,295 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森超視" tvg-id="369189" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png" group-title="綜合",[BD]东森超视
+2025-02-21 03:40:52,320 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森超視" tvg-id="369189" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png" group-title="綜合",[BD]东森超视[geo-blocked]
+2025-02-21 03:40:52,421 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森超視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126212025462229_58.jpg" group-title="綜合",[BD]東森超視
+2025-02-21 03:40:52,426 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森超視" tvg-id="369189" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105657399125_36.png" group-title="綜合",[BD]東森超視34.5
+2025-02-21 03:40:52,460 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森美洲" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023212524554784_66.jpg" group-title="綜合",[VGA]東森美洲
+2025-02-21 03:40:52,478 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森美洲" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718005514425865_72.jpg" group-title="綜合",[BD]东森美洲
+2025-02-21 03:40:52,490 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森美洲中國臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506010946533169_37.PNG" group-title="綜合",[BD]东森美洲中国
+2025-02-21 03:40:52,516 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森電影" tvg-id="369263" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105858673463_13.png" group-title="電影",[BD]东森电影[geo-blocked]
+2025-02-21 03:40:52,545 - INFO - 有效頻道: #EXTINF:-1 tvg-name="東森新聞" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",東森新聞
+2025-02-21 03:40:52,577 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森美洲衛視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718005646228477_42.jpg" group-title="綜合",[BD]东森美洲卫视
+2025-02-21 03:40:52,590 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森財經" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105725450147_96.png" group-title="新聞",[HD]东森财经
+2025-02-21 03:40:52,627 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="民視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/06/14/large/20230614212503849654_98.png" group-title="綜合",[BD]民视
+2025-02-21 03:40:52,630 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="東森電影" tvg-id="369263" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105858673463_13.png" group-title="電影",[BD]东森电影
+2025-02-21 03:40:52,732 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="民視新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png" group-title="新聞",[BD]民视新闻
+2025-02-21 03:40:52,750 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="民視新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png" group-title="新聞",[BD]民視新聞
+2025-02-21 03:40:52,763 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="民視新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png" group-title="新聞",[BD]民視新聞台
+2025-02-21 03:40:52,852 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="民視新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png" group-title="新聞",[BD]民视新闻 hd
+2025-02-21 03:40:52,874 - INFO - 有效頻道: #EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",無線新聞台
+2025-02-21 03:40:52,949 - INFO - 有效頻道: #EXTINF:-1 tvg-name="無線衛星新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",無線衛星新聞台
+2025-02-21 03:40:52,965 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="民視新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/17/large/20230717235342730998_10.png" group-title="新聞",[BD]民视 新闻
+2025-02-21 03:40:53,017 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="經典電影臺" tvg-id="370259" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/02/28/large/20240228002632629515_75.png" group-title="電影",[BD]经典电影[geo-blocked]
+2025-02-21 03:40:53,052 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="生命電視臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/img/logo/1_420.jpg" group-title="其它",[BD]生命电视台
+2025-02-21 03:40:53,062 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="緯來戲劇" tvg-id="369224" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105525808337_70.png" group-title="電影",[BD]纬来戏剧
+2025-02-21 03:40:53,070 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="生命電視" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514164027963147_19.jpg" group-title="其它",[BD]生命電視台
+2025-02-21 03:40:53,125 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="緯來戲劇" tvg-id="369224" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105525808337_70.png" group-title="電影",[BD]緯來戲劇[geo-blocked]
+2025-02-21 03:40:53,127 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="經典電影臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/04/28/large/20230428003944893108_94.jpg" group-title="電影",[SD]经典电影
+2025-02-21 03:40:53,159 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="經典電影臺" tvg-id="370259" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/02/28/large/20240228002632629515_75.png" group-title="電影",[SD]经典电影
+2025-02-21 03:40:53,240 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="緯來育樂" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722124851344289_73.png" group-title="綜合",[BD]纬来育乐[geo-blocked]
+2025-02-21 03:40:53,243 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="經典電影臺" tvg-id="370259" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/02/28/large/20240228002632629515_75.png" group-title="電影",[SD]经典电影[geo-blocked]
+2025-02-21 03:40:53,259 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="緯來體育" tvg-id="369287" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="運動",[BD]纬来体育[geo-blocked]
+2025-02-21 03:40:53,334 - INFO - 有效頻道: #EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",美亞電影台(HK)
+2025-02-21 03:40:53,336 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="緯來日本" tvg-id="369284" tvg-country="台灣" tvg-language="日語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105459178241_22.png" group-title="綜藝",[BD]纬来日本
+2025-02-21 03:40:53,354 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="緯來電影" tvg-id="369262" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105432854571_34.png" group-title="電影",[BD]纬来电影
+2025-02-21 03:40:53,394 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="美亞電影台[TW]" tvg-id="368837" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影",[SD]美亚电影
+2025-02-21 03:40:53,400 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="美亞電影台[TW]" tvg-id="368837" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="電影",[HD]美亚电影
+2025-02-21 03:40:53,576 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="臺視新聞臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/22/20161122123940121042_91.png" group-title="新聞",[BD]台视新聞
+2025-02-21 03:40:53,630 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="臺視綜合" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/10/07/large/20231007173906735735_65.png" group-title="綜合",[HD]台视综合
+2025-02-21 03:40:53,690 - INFO - 有效頻道: #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",纬来体育台
+2025-02-21 03:40:53,719 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="臺視新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/27/large/20221127002436544853_95.png" group-title="新聞",[BD]台视新闻 hd
+2025-02-21 03:40:53,746 - INFO - 有效頻道: #EXTINF:-1 tvg-name="華視" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",華視
+2025-02-21 03:40:53,756 - INFO - 有效頻道: #EXTINF:-1 tvg-name="翡翠剧集台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",翡翠剧集台(北美)
+2025-02-21 03:40:53,761 - INFO - 有效頻道: #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",翡翠台
+2025-02-21 03:40:53,809 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="臺視新聞臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/22/20161122123940121042_91.png" group-title="新聞",[BD]台視新聞
+2025-02-21 03:40:53,831 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="華視新聞FHD" tvg-id="368816" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/18/large/20230718001252593456_95.jpg" group-title="新聞",[BD]华视新闻
+2025-02-21 03:40:53,831 - INFO - 有效頻道: #EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",翡翠综合台(北美)
+2025-02-21 03:40:53,859 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="非凡新聞HD" tvg-id="369240" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/06/17/large/20160617165249161501_56.png" group-title="新聞",[BD]非凡新闻
+2025-02-21 03:40:53,869 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="鏡新聞" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126155808519742_55.jpg" group-title="新聞",[BD]新闻
+2025-02-21 03:40:53,980 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="龍祥電影" tvg-id="369265" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719075349183643_37.png" group-title="電影",[BD]龙祥电影
+2025-02-21 03:40:53,990 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="非凡新聞HD" tvg-id="369240" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2016/06/17/large/20160617165249161501_56.png" group-title="新聞",[HD]非凡新闻[geo-blocked]
+2025-02-21 03:40:54,064 - INFO - 有效頻道: #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",鳳凰中文
+2025-02-21 03:40:54,103 - INFO - 有效頻道: #EXTINF:-1 tvg-name="靖天電影台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",靖天電影台
+2025-02-21 03:40:54,110 - INFO - 有效頻道: #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",鳳凰香港
+2025-02-21 03:40:54,134 - INFO - 有效頻道: #EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",鳳凰資訊
+2025-02-21 03:40:54,244 - INFO - 有效頻道: #EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",龍華日韓台
+2025-02-21 03:40:54,248 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="龍華戲劇" tvg-id="334887" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170326264507_47.png" group-title="電影",[BD]龙华戏剧
+2025-02-21 03:40:54,277 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="龍華洋片" tvg-id="368841" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724165853232167_47.png" group-title="電影",[HD]龙华洋片
+2025-02-21 03:40:54,297 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="龍華卡通" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/08/14/large/20240814095345451215_38.png" group-title="兒童",[VGA]龙华卡通
+2025-02-21 03:40:54,308 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="龍華偶像" tvg-id="368791" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170246686943_42.png" group-title="電影",[HD]龙华偶像
+2025-02-21 03:40:54,328 - INFO - 有效頻道: #EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",黃金翡翠台
+2025-02-21 03:40:54,394 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="龍華戲劇" tvg-id="334887" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170326264507_47.png" group-title="電影",[HD]龙华戏剧
+2025-02-21 03:40:54,436 - WARNING - 無效頻道: #EXTINF:-1,CCTV13
+2025-02-21 03:40:54,502 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="龍華洋片" tvg-id="368841" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724165853232167_47.png" group-title="電影",[BD]龙华洋片
+2025-02-21 03:40:54,622 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="龍華電影" tvg-id="368838" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170416278600_34.png" group-title="電影",[HD]龙华电影
+2025-02-21 03:40:54,625 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="龍華洋片" tvg-id="368841" tvg-country="台灣" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724165853232167_47.png" group-title="電影",[HD]龙华洋片[geo-blocked]
+2025-02-21 03:40:54,711 - WARNING - 無效頻道: #EXTINF:-1,CCTV10
+2025-02-21 03:40:54,714 - WARNING - 無效頻道: #EXTINF:-1,CCTV12
+2025-02-21 03:40:54,751 - WARNING - 無效頻道: #EXTINF:-1 tvg-name="龍華電影" tvg-id="368838" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170416278600_34.png" group-title="電影",[BD]龙华电影
+2025-02-21 03:40:54,792 - INFO - 有效頻道: #EXTINF:-1 tvg-name="龍華經典台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",龍華經典台
+2025-02-21 03:40:54,833 - WARNING - 無效頻道: #EXTINF:-1,CCTV16奥林匹克
+2025-02-21 03:40:54,867 - INFO - 有效頻道: #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",龍華電影台
+2025-02-21 03:40:55,026 - WARNING - 無效頻道: #EXTINF:-1,CCTV8
+2025-02-21 03:40:55,087 - WARNING - 無效頻道: #EXTINF:-1,CCTV世界地理
+2025-02-21 03:40:55,108 - WARNING - 無效頻道: #EXTINF:-1,CCTV5+
+2025-02-21 03:40:55,129 - WARNING - 無效頻道: #EXTINF:-1,CCTV6
+2025-02-21 03:40:55,175 - WARNING - 無效頻道: #EXTINF:-1,CCTV央视台球
+2025-02-21 03:40:55,246 - WARNING - 無效頻道: #EXTINF:-1,CCTV女性时尚
+2025-02-21 03:40:55,276 - WARNING - 無效頻道: #EXTINF:-1,CCTV兵器科技
+2025-02-21 03:40:55,463 - WARNING - 無效頻道: #EXTINF:-1,CCTV怀旧剧场
+2025-02-21 03:40:55,558 - WARNING - 無效頻道: #EXTINF:-1,CCTV风云剧场
+2025-02-21 03:40:55,571 - WARNING - 無效頻道: #EXTINF:-1,CCTV电视指南
+2025-02-21 03:40:55,642 - WARNING - 無效頻道: #EXTINF:-1,CCTV第一剧场
+2025-02-21 03:40:55,642 - WARNING - 無效頻道: #EXTINF:-1,CCTV风云足球
+2025-02-21 03:40:55,671 - WARNING - 無效頻道: #EXTINF:-1,CCTV风云音乐
+2025-02-21 03:40:55,803 - WARNING - 無效頻道: #EXTINF:-1,CHC动作电影
+2025-02-21 03:40:55,833 - INFO - 有效頻道: #EXTINF:-1,HBO FAMILY
+2025-02-21 03:40:55,875 - INFO - 有效頻道: #EXTINF:-1,HBO 2
+2025-02-21 03:40:56,055 - WARNING - 無效頻道: #EXTINF:-1,CHC家庭影院
+2025-02-21 03:40:56,106 - WARNING - 無效頻道: #EXTINF:-1,CHC影迷电影
+2025-02-21 03:40:56,188 - INFO - 有效頻道: #EXTINF:-1,Lifetime
+2025-02-21 03:40:56,338 - INFO - 有效頻道: #EXTINF:-1,nick jr.
+2025-02-21 03:40:56,355 - WARNING - 無效頻道: #EXTINF:-1,上海新闻综合
+2025-02-21 03:40:56,416 - INFO - 有效頻道: #EXTINF:-1,NBA TV
+2025-02-21 03:40:56,547 - WARNING - 無效頻道: #EXTINF:-1,上海都市
+2025-02-21 03:40:57,758 - WARNING - 無效頻道: #EXTINF:-1,CCTV4
+2025-02-21 03:40:57,812 - WARNING - 無效頻道: #EXTINF:-1,CCTV5
+2025-02-21 03:40:57,921 - WARNING - 無效頻道: #EXTINF:-1,CCTV7
+2025-02-21 03:40:57,929 - WARNING - 無效頻道: #EXTINF:-1,CCTV2
+2025-02-21 03:40:57,939 - WARNING - 無效頻道: #EXTINF:-1,CCTV9
+2025-02-21 03:40:59,236 - WARNING - 無效頻道: #EXTINF:-1,Hot欧美影院
+2025-02-21 03:40:59,240 - WARNING - 無效頻道: #EXTINF:-1,Hot亚洲影院
+2025-02-21 03:40:59,549 - WARNING - 無效頻道: #EXTINF:-1,中国天气
+2025-02-21 03:40:59,820 - WARNING - 無效頻道: #EXTINF:-1,东方影视
+2025-02-21 03:40:59,841 - WARNING - 無效頻道: #EXTINF:-1,松視1台
+2025-02-21 03:40:59,841 - WARNING - 無效頻道: #EXTINF:-1,五星体育
+2025-02-21 03:41:00,035 - WARNING - 無效頻道: #EXTINF:-1,松視2台
+2025-02-21 03:41:00,275 - WARNING - 無效頻道: #EXTINF:-1,松視3台
+2025-02-21 03:41:00,715 - WARNING - 無效頻道: #EXTINF:-1,游戏风云
+2025-02-21 03:41:00,805 - WARNING - 無效頻道: #EXTINF:-1,海峡卫视
+2025-02-21 03:41:01,002 - WARNING - 無效頻道: #EXTINF:-1,亚洲影院
+2025-02-21 03:41:01,201 - WARNING - 無效頻道: #EXTINF:-1,哈哈炫动
+2025-02-21 03:41:01,213 - WARNING - 無效頻道: #EXTINF:-1,潘朵拉
+2025-02-21 03:41:03,193 - WARNING - 無效頻道: #EXTINF:-1,欧美影院
+2025-02-21 03:41:04,072 - WARNING - 無效頻道: #EXTINF:-1,生活时尚
+2025-02-21 03:41:04,126 - WARNING - 無效頻道: #EXTINF:-1,睛彩广场舞
+2025-02-21 03:41:04,424 - WARNING - 無效頻道: #EXTINF:-1,睛彩篮球
+2025-02-21 03:41:04,556 - WARNING - 無效頻道: #EXTINF:-1,第一财经
+2025-02-21 03:41:04,576 - WARNING - 無效頻道: #EXTINF:-1,精艳台
+2025-02-21 03:41:06,414 - WARNING - 無效頻道: #EXTINF:-1,精品剧场
+2025-02-21 03:41:06,482 - WARNING - 無效頻道: #EXTINF:-1,西藏卫视
+2025-02-21 03:41:06,721 - WARNING - 無效頻道: #EXTINF:-1,陕西卫视
+2025-02-21 03:41:07,249 - WARNING - 無效頻道: #EXTINF:-1,纪实人文
+2025-02-21 03:41:07,359 - INFO - 有效頻道: #EXTINF:-1,陕西秦腔
+2025-02-21 03:41:07,394 - INFO - 有效頻道: #EXTINF:-1,陕西体育休闲
+2025-02-21 03:41:07,656 - WARNING - 無效頻道: #EXTINF:-1,香蕉2
+2025-02-21 03:41:07,836 - INFO - 有效頻道: #EXTINF:-1,陕西新闻资讯
+2025-02-21 03:41:07,842 - INFO - 有效頻道: #EXTINF:-1,陕西西部电影
+2025-02-21 03:41:08,228 - INFO - 有效頻道: #EXTINF:-1,陕西都市青春
+2025-02-21 03:41:08,871 - INFO - 有效頻道: #EXTINF:-1,陕西银铃
+2025-02-21 03:41:11,107 - WARNING - 無效頻道: #EXTINF:-1,广州新闻
+2025-02-21 03:41:11,107 - WARNING - 無效頻道: #EXTINF:-1,广州南国都市
+2025-02-21 03:41:11,108 - WARNING - 無效頻道: #EXTINF:-1,广州影视
+2025-02-21 03:41:12,220 - WARNING - 無效頻道: #EXTINF:-1,广州综合
+2025-02-21 03:41:13,198 - WARNING - 無效頻道: #EXTINF:-1,江西卫视
+2025-02-21 03:41:13,199 - INFO - 無效頻道已移除，檔案已更新。
+2025-02-21 03:41:13,200 - INFO - 所有操作已完成！
