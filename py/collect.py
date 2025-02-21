@@ -17,7 +17,7 @@ FILE_URLS = [
     "https://raw.githubusercontent.com/WaykeYu/iptv_integ/refs/heads/main/source/txt/4gTV",
     "https://raw.githubusercontent.com/WaykeYu/iptv_integ/refs/heads/main/source/txt/UBTV0318",
     "https://raw.githubusercontent.com/WaykeYu/iptv_integ/refs/heads/main/source/txt/adult1",
-    "https://tv.iill.top/m3u/Gather"
+    "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u"
 ]
 
 # 存儲目錄
