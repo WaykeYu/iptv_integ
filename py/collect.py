@@ -16,7 +16,8 @@ FILE_URLS = [
     "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
     "https://raw.githubusercontent.com/WaykeYu/iptv_integ/refs/heads/main/source/txt/4gTV",
     "https://raw.githubusercontent.com/WaykeYu/iptv_integ/refs/heads/main/source/txt/UBTV0318",
-    "https://raw.githubusercontent.com/WaykeYu/iptv_integ/refs/heads/main/source/txt/adult1"
+    "https://raw.githubusercontent.com/WaykeYu/iptv_integ/refs/heads/main/source/txt/adult1",
+    "https://tv.iill.top/m3u/Gather"
 ]
 
 # 存儲目錄
