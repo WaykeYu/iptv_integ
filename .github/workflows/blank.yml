@@ -42,8 +42,8 @@ jobs:
       - name: Run py
         run: python ${{ github.workspace }}/py/integ.py
 
-      - name: Run py
-        run: python ${{ github.workspace }}/py/confirm.py     
+      #- name: Run py
+        #run: python ${{ github.workspace }}/py/confirm.py     
         
      
       # readme.md
