@@ -15,8 +15,6 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1,TVB Plus
 http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1,TVBS-新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1,tvN
 http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 #EXTINF:-1,中天新聞台
@@ -53,6 +51,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1,Love Nature HD
 http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1,Love_The_Planet
+http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
 #EXTINF:-1,无线新闻台(北美)
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1,東森新聞
@@ -75,6 +75,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:-1,Thrill
 http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1,Xite_Hits
+http://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
 #EXTINF:-1,ZooMoo
 http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 #EXTINF:-1,亞洲新聞台
