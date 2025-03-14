@@ -37,6 +37,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 #EXTINF:-1,翡翠台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+#EXTINF:-1,翡翠台 4K
+http://aktv_stream1.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 #EXTINF:-1,翡翠综合台(北美)
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 #EXTINF:-1,鳳凰中文
@@ -57,7 +59,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1,東森新聞
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-#EXTINF:-1,Animax(SGP)
+#EXTINF:-1,Animax(HK)
 http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1,DW
 http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
@@ -75,6 +77,8 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:-1,Thrill
 http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1,Xite Rock
+http://aktv_stream1.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
 #EXTINF:-1,Xite_Hits
 http://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
 #EXTINF:-1,ZooMoo
@@ -149,6 +153,8 @@ http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
 #EXTINF:-1,龍華電影台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+#EXTINF:-1,台
+http://aktv_stream1.m16tv.cfd/stream/test/null/AKTV.m3u8
 #EXTINF:-1,Astro Football
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 #EXTINF:-1,Astro IQIYI
@@ -161,8 +167,6 @@ http://aktv_stream1.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
 #EXTINF:-1,Red Bull Sports
 http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
-#EXTINF:-1,翡翠台 4K
-http://aktv_stream1.m16tv.cfd/stream/tuntun/4k/AKTV.m3u8
 #EXTINF:-1,NTV NEWS 24
 http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 #EXTINF:-1,viuTV
