@@ -139,6 +139,8 @@ http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 #EXTINF:-1,Astro IQIYI
 http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+#EXTINF:-1,Astro QJ
+http://aktv_stream1.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
 #EXTINF:-1,Astro 欢喜台
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
 #EXTINF:-1,NTV NEWS 24
