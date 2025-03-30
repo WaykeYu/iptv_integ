@@ -53,8 +53,6 @@ http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1,Love Nature HD
 http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:-1,National Geographic
-http://aktv-stream.m16tv.cfd/stream/aktv2/nationalgeographic/AKTV.m3u8
 #EXTINF:-1,无线新闻台(北美)
 http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1,東森新聞
@@ -121,8 +119,6 @@ http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
 #EXTINF:-1,中視新聞
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
-#EXTINF:-1,倪珍英語新聞
-http://aktv-stream.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
 #EXTINF:-1,台視
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
 #EXTINF:-1,台視新聞
@@ -137,6 +133,14 @@ http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
 #EXTINF:-1,龍華電影台
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+#EXTINF:-1,beIN SPORTS XTRA
+http://aktv-stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
+#EXTINF:-1,PAC12
+http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
+#EXTINF:-1,Tennis Channel
+http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
+#EXTINF:-1,台
+http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
 #EXTINF:-1,Astro Football
 http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 #EXTINF:-1,Astro IQIYI
