@@ -137,9 +137,9 @@ http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
 #EXTINF:-1,PAC12
 http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
-#EXTINF:-1,Tennis Channel
+#EXTINF:-1,Tennis Channel DE
 http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
-#EXTINF:-1,台
+#EXTINF:-1,緯來體育
 http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
 #EXTINF:-1,Astro Football
 http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
@@ -149,7 +149,15 @@ http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
 #EXTINF:-1,Astro 欢喜台
 http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-#EXTINF:-1,NTV NEWS 24
-http://aktv-stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
+#EXTINF:-1,FOX Sports 1 US
+http://aktv-stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
+#EXTINF:-1,MTV LIVE US
+http://aktv-stream.m16tv.cfd/stream/tuntun/mtvliveus/AKTV.m3u8
+#EXTINF:-1,Red Bull Sports
+http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
+#EXTINF:-1,Tennis Channel 2 US
+http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
+#EXTINF:-1,Tennis Channel US
+http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
 #EXTINF:-1,viuTV
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
