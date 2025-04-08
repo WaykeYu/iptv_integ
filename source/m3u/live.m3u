@@ -137,6 +137,8 @@ http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
 #EXTINF:-1,緯來體育
 http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+#EXTINF:-1,Asian Action
+http://aktv-stream.m16tv.cfd/stream/tuntun/asianaction/AKTV.m3u8
 #EXTINF:-1,Astro Football
 http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 #EXTINF:-1,Astro IQIYI
