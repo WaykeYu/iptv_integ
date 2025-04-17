@@ -1,20 +1,14 @@
 #EXTM3U
-#EXTINF:-1,28 AI 智慧賽馬
-http://aktv_stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 #EXTINF:-1,Channel 5 HD
 http://aktv_stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1,Channel 8 HD
 http://aktv_stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1,Channel U HD
 http://aktv_stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1,myTV SUPER 18台
-http://aktv_stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1,PopC
 http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 #EXTINF:-1,ROCK Action
 http://aktv_stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1,TVB Plus
-http://aktv_stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1,tvN
 http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 #EXTINF:-1,中天新聞台
@@ -49,6 +43,12 @@ http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 #EXTINF:-1,黃金翡翠台
 http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+#EXTINF:-1,28AI智慧賽馬
+http://aktv_stream.m16tv.cfd/stream/aktv1/28ai/AKTV.m3u8
+#EXTINF:-1,myTV SUPER 18台
+http://aktv_stream.m16tv.cfd/stream/aktv1/mytvsuper18/AKTV.m3u8
+#EXTINF:-1,TVB Plus
+http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
 #EXTINF:-1,AXN
 http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1,Love Nature HD
