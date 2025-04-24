@@ -533,14 +533,6 @@ https://live.iill.top/huya/11601966
 https://live.iill.top/huya/11352879
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",中华小当家「动漫」
 https://live.iill.top/huya/11342413
-#EXTINF:-1,Channel 5 HD
-http://aktv_stream.m16tv.cfd/stream/aktv1/channel5hd/AKTV.m3u8
-#EXTINF:-1,Channel 8 HD
-http://aktv_stream.m16tv.cfd/stream/aktv1/channel8hd/AKTV.m3u8
-#EXTINF:-1,Channel U HD
-http://aktv_stream.m16tv.cfd/stream/aktv1/channeluhd/AKTV.m3u8
-#EXTINF:-1,TVB Plus
-http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
 #EXTINF:-1,Animax(HK)
 http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
 #EXTINF:-1,AXN
