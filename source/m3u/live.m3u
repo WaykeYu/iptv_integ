@@ -9,10 +9,6 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
 #EXTINF:-1,tvN
 http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
-#EXTINF:-1,千禧經典台(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/hk-2/AKTV.m3u8
-#EXTINF:-1,娛樂新聞台(HK)
-http://aktv_stream.m16tv.cfd/stream/aktv2/hk-1/AKTV.m3u8
 #EXTINF:-1,明珠台
 http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
 #EXTINF:-1,無線新聞台
@@ -33,7 +29,3 @@ http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
 #EXTINF:-1,中天新闻台
 http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
-#EXTINF:-1,寰宇新聞台
-http://aktv_stream.m16tv.cfd/stream/yt/null-1/AKTV.m3u8
-#EXTINF:-1,東森新聞
-http://aktv_stream.m16tv.cfd/stream/yt/null-2/AKTV.m3u8
