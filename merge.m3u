@@ -70,7 +70,7 @@ http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 #EXTINF:-1,CCTV电视指南
 http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1,CCTV5
-http://39.134.136.161:6610/000000001000/reallive-cctv5/index.m3u8
+http://39.134.136.161:6610/000000001000/5000000010000016619/index.m3u8
 #EXTINF:-1,CCTV7
 http://39.134.136.161:6610/000000001000/5000000011000031104/index.m3u8
 #EXTINF:-1,Cinemax
@@ -120,7 +120,7 @@ https://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1,Food Network
 http://38.96.178.201/live/FoodNetwork/index.m3u8
 #EXTINF:-1,MTV Live
-http://212.102.60.231:80/MTV_LIVE/index.m3u8
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1,E Entertainment
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1,Starz Encore
@@ -257,6 +257,8 @@ http://39.134.136.161:6610/000000001000/5000000011000031101/index.m3u8
 http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8
 #EXTINF:-1,上海新闻综合
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000005/index.m3u8
+#EXTINF:-1,Live
+http://212.102.60.231:80/MTV_LIVE/index.m3u8
 #EXTINF:-1,National Geographic Wild
 http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1,National Geographic
@@ -267,8 +269,6 @@ http://212.102.60.231:80/Travel_Channel/index.m3u8
 http://212.102.60.231:80/SHOWTIME/index.m3u8
 #EXTINF:-1,News Action
 http://212.102.60.231:80/NEWS_NATION/index.m3u8
-#EXTINF:-1,MTV
-http://212.102.60.231:80/MTV/index.m3u8
 #EXTINF:-1,Lifetime
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1,nick jr.
