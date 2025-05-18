@@ -1,26 +1,32 @@
 #EXTM3U
-#EXTINF:-1,香蕉2
-http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-#EXTINF:-1,精艳台
-http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
-#EXTINF:-1,潘朵拉
-http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
-#EXTINF:-1,松視1台
-http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-#EXTINF:-1,松視2台
-http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
-#EXTINF:-1,松視3台
-http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
-#EXTINF:-1,FOX HD
-http://38.96.178.201/live/FOXHD/index.m3u8
+#EXTINF:-1,香蕉
+https://18.svi-studio.com:80/live/176844830209/558261845324/4.m3u8
+#EXTINF:-1,松视1
+https://18.svi-studio.com:80/live/176844830209/558261845324/5.m3u8
+#EXTINF:-1,松视2
+https://18.svi-studio.com:80/live/176844830209/558261845324/6.m3u8
+#EXTINF:-1,VISIT-X
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1,Disney XD
 http://38.96.178.201/live/DisneyXD/index.m3u8
+#EXTINF:-1,FX East
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1,FXM
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1,FXX East
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1,FOX HD
+http://38.96.178.201/live/FOXHD/index.m3u8
 #EXTINF:-1,FOX Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1,精品剧场
 http://39.134.136.161:6610/000000001000/2000000004000000002/index.m3u8
 #EXTINF:-1,CINEMAX
 http://212.102.60.231:80/CINEMAX/index.m3u8
+#EXTINF:-1,ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1,ESPN News
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1,ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1,ESPN HD
@@ -29,12 +35,16 @@ http://38.96.178.201/live/ESPNHD/index.m3u8
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1,CCTV风云足球
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8
+#EXTINF:-1,NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1,CNBC
 https://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1,BBC America
 http://38.96.178.201/live/BBCAmerica/index.m3u8
 #EXTINF:-1,CCTV2
 http://39.134.136.161:6610/000000001000/5000000011000031101/index.m3u8
+#EXTINF:-1,CCTV4
+http://39.134.136.161:6610/000000001000/5000000011000031102/index.m3u8
 #EXTINF:-1,CCTV5
 http://39.134.136.161:6610/000000001000/reallive-cctv5/index.m3u8
 #EXTINF:-1,CCTV5+
@@ -47,6 +57,8 @@ http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8
 #EXTINF:-1,CCTV10
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+#EXTINF:-1,CCTV12
+http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8
 #EXTINF:-1,CCTV13
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 #EXTINF:-1,CCTV16奥林匹克
@@ -62,15 +74,15 @@ http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1,CCTV怀旧剧场
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 #EXTINF:-1,CCTV第一剧场
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
+http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1,CCTV风云剧场
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
 #EXTINF:-1,CCTV风云音乐
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 #EXTINF:-1,CCTV电视指南
 http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1,CCTV4
-http://39.134.136.161:6610/000000001000/5000000011000031102/index.m3u8
+#EXTINF:-1,CCTV7
+http://39.134.136.161:6610/000000001000/5000000011000031104/index.m3u8
 #EXTINF:-1,Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1,HBO
@@ -79,18 +91,122 @@ http://212.102.60.231:80/HBO/index.m3u8
 http://212.102.60.231/HBO_2/index.m3u8
 #EXTINF:-1,HBO FAMILY
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1,National Geographi Wild
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1,Motor Trend
-http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1,MTV 2
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1,Blue Hustler
+http://18.svi-studio.com:80/live/176844830209/558261845324/101422.m3u8
+#EXTINF:-1,Miami TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1,Jenny Live
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1,ACC Network
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1,amc Network
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1,American Hereos Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1,Animal Planet
+http://212.102.60.231:80/Animal_Planet/index.m3u8
+#EXTINF:-1,Bally Sports Florida
+https://fl6.moveonjoy.com/BALLY_SPORTS_FLORIDA/index.m3u8
+#EXTINF:-1,beIN Sports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1,BET
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1,BET Her East
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1,Big Ten Network
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1,Bloomberg
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1,Bravo
+http://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://38.96.178.201/live/CartoonNetwork/index.m3u8
+#EXTINF:-1,CBS
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1,CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1,Comedy Central
 http://38.96.178.201/live/ComedyCentral/index.m3u8
+#EXTINF:-1,Cooking Channel
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1,C-SPAN
+http://143.244.60.97/C-SPAN/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1,Discovery Family
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1,Discovery Life
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1,Disney Channel
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1,Disney Jr.
+http://143.244.60.97/DISNEY_JR/index.m3u8
+#EXTINF:-1,E Entertainment
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1,Freeform East
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1,Food Network
+http://38.96.178.201/live/FoodNetwork/index.m3u8
+#EXTINF:-1,FUSE
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1,Hallmark Drama
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1,HGTV
+http://212.102.60.231:80/HGTV/index.m3u8
+#EXTINF:-1,ION
+http://fl2.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1,Motor Trend
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1,MTV Live
+http://212.102.60.231:80/MTV_LIVE/index.m3u8
+#EXTINF:-1,MTV 2
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1,MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1,MTV
+http://212.102.60.231:80/MTV/index.m3u8
+#EXTINF:-1,National Geographic East
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1,National Geographi Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1,NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1,NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1,Outdoor Channel
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1,OWN
+http://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1,Paramount Network East
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1,ReelzChannel
+http://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1,Revolt
+http://fl2.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1,SEC Network
+https://fl6.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1,Showtime Next
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1,Showtime Women East
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1,Starz Encore
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1,Starz
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1,SYFY
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1,SUNDANCE
+http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1,tbs
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1,Tennis Channel
+https://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1,The Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1,TNT
+http://fl2.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1,TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1,TSN 2
@@ -101,64 +217,20 @@ http://fl5.moveonjoy.com/TSN_3/index.m3u8
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1,TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1,NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://38.96.178.201/live/CartoonNetwork/index.m3u8
-#EXTINF:-1,Disney Channel
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1,Disney Jr.
-http://143.244.60.97/DISNEY_JR/index.m3u8
-#EXTINF:-1,SYFY
-http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1,Animal Planet
-http://212.102.60.231:80/Animal_Planet/index.m3u8
-#EXTINF:-1,Tennis Channel
-https://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1,Food Network
-http://38.96.178.201/live/FoodNetwork/index.m3u8
-#EXTINF:-1,MTV Live
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1,E Entertainment
-http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1,Starz Encore
-http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1,Starz
-http://fl2.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1,WE TV
-http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1,truTV East
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1,TV One
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1,American Hereos Channel
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1,VH1
-http://212.102.60.231:80/VH1/index.m3u8
-#EXTINF:-1,Discovery Family
-http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1,The Weather Channel
-http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1,NHL Network
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1,OWN
-http://fl2.moveonjoy.com/OWN/index.m3u8
-#EXTINF:-1,Hallmark Drama
-http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1,FUSE
-http://fl2.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1,tbs
-http://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1,amc Network
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1,USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1,SUNDANCE
-http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1,CBS
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1,Bally Sports Florida
-https://fl6.moveonjoy.com/BALLY_SPORTS_FLORIDA/index.m3u8
-#EXTINF:-1,SEC Network
-https://fl6.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1,VH1
+http://212.102.60.231:80/VH1/index.m3u8
+#EXTINF:-1,Vice
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1,WE TV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1,YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1,Tennis
 http://38.96.178.201/live/TENNIS/index.m3u8
 #EXTINF:-1,HBC HD
@@ -171,6 +243,8 @@ http://38.96.178.201/live/ABCHD/index.m3u8
 http://38.96.178.201/live/Discovery/index.m3u8
 #EXTINF:-1,EBS+ 1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,Korean Music
+http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1,Eurosport 1 西语
 http://185.189.225.150:85/Eurosport1/index.m3u8
 #EXTINF:-1,Eurosport 2 西语
@@ -179,10 +253,6 @@ http://185.189.225.150:85/Eurosport2/index.m3u8
 http://185.189.225.157/mtv90s/index.m3u8
 #EXTINF:-1,MTV Hits
 http://185.189.225.157/MTVHits/index.m3u8
-#EXTINF:-1,C-SPAN
-http://143.244.60.97/C-SPAN/index.m3u8
-#EXTINF:-1,HGTV
-http://212.102.60.231:80/HGTV/index.m3u8
 #EXTINF:-1,MSNBC
 http://41.205.93.154:80/MSNBC/index.m3u8
 #EXTINF:-1,STAR SPORTS 1
@@ -191,6 +261,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1,bravo
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1,广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8
 #EXTINF:-1,广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8
 #EXTINF:-1,广州影视
@@ -198,7 +270,7 @@ http://tencentplay.gztv.com/live/yingshi.m3u8
 #EXTINF:-1,广州南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8
 #EXTINF:-1,CHC动作电影
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1,CHC影迷电影
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1,CHC家庭影院
@@ -209,6 +281,8 @@ http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8
 #EXTINF:-1,海峡卫视
 https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8
+#EXTINF:-1,江西卫视
+https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 #EXTINF:-1,陕西卫视
 http://stream.snrtv.com/sxbc-star-xAE013.m3u8
 #EXTINF:-1,陕西新闻资讯
@@ -251,12 +325,8 @@ http://39.134.136.161:6610/000000001000/2000000002000000007/index.m3u8
 http://39.134.136.161:6610/000000001000/1000000006000270002/index.m3u8
 #EXTINF:-1,睛彩广场舞
 http://39.134.136.161:6610/000000001000/1000000006000270005/index.m3u8
-#EXTINF:-1,7
-http://39.134.136.161:6610/000000001000/5000000011000031104/index.m3u8
 #EXTINF:-1,上海新闻综合
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000005/index.m3u8
-#EXTINF:-1,Live
-http://212.102.60.231:80/MTV_LIVE/index.m3u8
 #EXTINF:-1,National Geographic Wild
 http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1,National Geographic
@@ -267,8 +337,6 @@ http://212.102.60.231:80/Travel_Channel/index.m3u8
 http://212.102.60.231:80/SHOWTIME/index.m3u8
 #EXTINF:-1,News Action
 http://212.102.60.231:80/NEWS_NATION/index.m3u8
-#EXTINF:-1,MTV
-http://212.102.60.231:80/MTV/index.m3u8
 #EXTINF:-1,Lifetime
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1,nick jr.
