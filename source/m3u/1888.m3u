@@ -98,19 +98,7 @@ http://38.96.178.201/live/ESPNHD/index.m3u8
 #EXTINF:-1,ESPN
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1,CCTV风云足球
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8
-#EXTINF:-1,NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
-#EXTINF:-1,ESPN 2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1,ESPN News
-http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1,ESPN U
-http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1,ESPN HD
-http://38.96.178.201/live/ESPNHD/index.m3u8
-#EXTINF:-1,ESPN
-http://41.205.93.154/ESPN/index.m3u8
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 #EXTINF:-1,CCTV风云足球
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8
 #EXTINF:-1,NBA TV
@@ -125,6 +113,24 @@ http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 http://38.96.178.201/live/ESPNHD/index.m3u8
 #EXTINF:-1,ESPN
 http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1,CCTV风云足球
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
+#EXTINF:-1,CCTV风云足球
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8
+#EXTINF:-1,NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1,ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1,ESPN News
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1,ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1,ESPN HD
+http://38.96.178.201/live/ESPNHD/index.m3u8
+#EXTINF:-1,ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1,CCTV风云足球
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 #EXTINF:-1,CCTV风云足球
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8
 #EXTINF:-1,NBA TV
@@ -139,8 +145,8 @@ http://38.96.178.201/live/BBCAmerica/index.m3u8
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 #EXTINF:-1,CCTV4
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-#EXTINF:-1,CCTV6
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+#EXTINF:-1,CCTV5
+http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 #EXTINF:-1,CCTV8
 http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 #EXTINF:-1,CCTV9
@@ -157,22 +163,18 @@ http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1,CCTV央视台球
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-#EXTINF:-1,CCTV央视台球
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/1.m3u8
+#EXTINF:-1,CCTV女性时尚
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
 #EXTINF:-1,CCTV女性时尚
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 #EXTINF:-1,CCTV怀旧剧场
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
 #EXTINF:-1,CCTV怀旧剧场
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1,CCTV第一剧场
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
-#EXTINF:-1,CCTV第一剧场
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1,CCTV风云剧场
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
 #EXTINF:-1,CCTV风云音乐
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1,CCTV电视指南
-http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1,CCTV2
 http://39.134.136.161:6610/000000001000/5000000011000031101/index.m3u8
 #EXTINF:-1,CCTV4
@@ -181,6 +183,10 @@ http://39.134.136.161:6610/000000001000/5000000011000031102/index.m3u8
 http://39.134.136.161:6610/000000001000/5000000010000016619/index.m3u8
 #EXTINF:-1,CCTV7
 http://39.134.136.161:6610/000000001000/5000000011000031104/index.m3u8
+#EXTINF:-1,CCTV9
+http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8
+#EXTINF:-1,CCTV5
+http://39.134.136.161:6610/000000001000/reallive-cctv5/index.m3u8
 #EXTINF:-1,CNBC
 https://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1,BBC America
@@ -189,8 +195,8 @@ http://38.96.178.201/live/BBCAmerica/index.m3u8
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 #EXTINF:-1,CCTV4
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-#EXTINF:-1,CCTV6
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+#EXTINF:-1,CCTV5
+http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 #EXTINF:-1,CCTV8
 http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 #EXTINF:-1,CCTV9
@@ -207,22 +213,18 @@ http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1,CCTV央视台球
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-#EXTINF:-1,CCTV央视台球
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/1.m3u8
+#EXTINF:-1,CCTV女性时尚
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
 #EXTINF:-1,CCTV女性时尚
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 #EXTINF:-1,CCTV怀旧剧场
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
 #EXTINF:-1,CCTV怀旧剧场
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1,CCTV第一剧场
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
-#EXTINF:-1,CCTV第一剧场
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1,CCTV风云剧场
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
 #EXTINF:-1,CCTV风云音乐
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1,CCTV电视指南
-http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1,CCTV2
 http://39.134.136.161:6610/000000001000/5000000011000031101/index.m3u8
 #EXTINF:-1,CCTV4
@@ -231,6 +233,10 @@ http://39.134.136.161:6610/000000001000/5000000011000031102/index.m3u8
 http://39.134.136.161:6610/000000001000/5000000010000016619/index.m3u8
 #EXTINF:-1,CCTV7
 http://39.134.136.161:6610/000000001000/5000000011000031104/index.m3u8
+#EXTINF:-1,CCTV9
+http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8
+#EXTINF:-1,CCTV5
+http://39.134.136.161:6610/000000001000/reallive-cctv5/index.m3u8
 #EXTINF:-1,CNBC
 https://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1,BBC America
@@ -239,8 +245,8 @@ http://38.96.178.201/live/BBCAmerica/index.m3u8
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 #EXTINF:-1,CCTV4
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-#EXTINF:-1,CCTV6
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+#EXTINF:-1,CCTV5
+http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 #EXTINF:-1,CCTV8
 http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 #EXTINF:-1,CCTV9
@@ -257,22 +263,18 @@ http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1,CCTV央视台球
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-#EXTINF:-1,CCTV央视台球
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/1.m3u8
+#EXTINF:-1,CCTV女性时尚
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
 #EXTINF:-1,CCTV女性时尚
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 #EXTINF:-1,CCTV怀旧剧场
 http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
 #EXTINF:-1,CCTV怀旧剧场
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1,CCTV第一剧场
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
-#EXTINF:-1,CCTV第一剧场
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1,CCTV风云剧场
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
 #EXTINF:-1,CCTV风云音乐
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1,CCTV电视指南
-http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1,CCTV2
 http://39.134.136.161:6610/000000001000/5000000011000031101/index.m3u8
 #EXTINF:-1,CCTV4
@@ -281,6 +283,10 @@ http://39.134.136.161:6610/000000001000/5000000011000031102/index.m3u8
 http://39.134.136.161:6610/000000001000/5000000010000016619/index.m3u8
 #EXTINF:-1,CCTV7
 http://39.134.136.161:6610/000000001000/5000000011000031104/index.m3u8
+#EXTINF:-1,CCTV9
+http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8
+#EXTINF:-1,CCTV5
+http://39.134.136.161:6610/000000001000/reallive-cctv5/index.m3u8
 
 #EXTGRP:電影頻道
 #EXTINF:-1,Cinemax
@@ -317,8 +323,6 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTGRP:未分類頻道
 #EXTINF:-1,Blue Hustler
 http://18.svi-studio.com:80/live/176844830209/558261845324/101422.m3u8
-#EXTINF:-1,Miami TV
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1,Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1,ACC Network
@@ -365,6 +369,8 @@ http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1,Disney Jr.
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1,E Entertainment
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1,Freeform East
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1,Food Network
@@ -383,6 +389,8 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1,MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1,MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1,National Geographic East
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1,National Geographi Wild
@@ -497,12 +505,12 @@ http://41.205.93.154/BRAVO/index.m3u8
 http://tencentplay.gztv.com/live/yingshi.m3u8
 #EXTINF:-1,广州南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8
-#EXTINF:-1,5+
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-#EXTINF:-1,CHC动作电影
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1,CHC动作电影
 http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1,CHC影迷电影
+http://[2409:8087:7008:20::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1,CHC影迷电影
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1,CHC家庭影院
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1,游戏风云
@@ -515,8 +523,12 @@ https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8
 https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 #EXTINF:-1,陕西卫视
 http://stream.snrtv.com/sxbc-star-xAE013.m3u8
+#EXTINF:-1,陕西新闻资讯
+http://gxlive.snrtv.com/sx1-SD.m3u8
 #EXTINF:-1,陕西都市青春
 http://gxlive.snrtv.com/sx2-SD.m3u8
+#EXTINF:-1,陕西银铃
+http://gxlive.snrtv.com/sx3-SD.m3u8
 #EXTINF:-1,陕西秦腔
 http://gxlive.snrtv.com/sx5-SD.m3u8
 #EXTINF:-1,陕西体育休闲
@@ -551,16 +563,14 @@ http://39.134.136.161:6610/000000001000/2000000002000000007/index.m3u8
 http://39.134.136.161:6610/000000001000/1000000006000270002/index.m3u8
 #EXTINF:-1,睛彩广场舞
 http://39.134.136.161:6610/000000001000/1000000006000270005/index.m3u8
-#EXTINF:-1,9
-http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8
-#EXTINF:-1,5
-http://39.134.136.161:6610/000000001000/reallive-cctv5/index.m3u8
 #EXTINF:-1,上海新闻综合
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000005/index.m3u8
 #EXTINF:-1,上海都市
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000012/index.m3u8
 #EXTINF:-1,Animal Planet
 http://212.102.60.231:80/Animal_Planet/index.m3u8
+#EXTINF:-1,MTV Live
+http://212.102.60.231:80/MTV_LIVE/index.m3u8
 #EXTINF:-1,HGTV
 http://212.102.60.231:80/HGTV/index.m3u8
 #EXTINF:-1,National Geographic Wild
@@ -583,8 +593,6 @@ http://212.102.60.231/LIFETIME/index.m3u8
 http://212.102.60.231/NICK_JR/index.m3u8
 #EXTINF:-1,Blue Hustler
 http://18.svi-studio.com:80/live/176844830209/558261845324/101422.m3u8
-#EXTINF:-1,Miami TV
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1,Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1,ACC Network
@@ -631,6 +639,8 @@ http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1,Disney Jr.
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1,E Entertainment
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1,Freeform East
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1,Food Network
@@ -649,6 +659,8 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1,MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1,MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1,National Geographic East
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1,National Geographi Wild
@@ -763,12 +775,12 @@ http://41.205.93.154/BRAVO/index.m3u8
 http://tencentplay.gztv.com/live/yingshi.m3u8
 #EXTINF:-1,广州南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8
-#EXTINF:-1,5+
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-#EXTINF:-1,CHC动作电影
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1,CHC动作电影
 http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1,CHC影迷电影
+http://[2409:8087:7008:20::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1,CHC影迷电影
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1,CHC家庭影院
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1,游戏风云
@@ -781,8 +793,12 @@ https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8
 https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 #EXTINF:-1,陕西卫视
 http://stream.snrtv.com/sxbc-star-xAE013.m3u8
+#EXTINF:-1,陕西新闻资讯
+http://gxlive.snrtv.com/sx1-SD.m3u8
 #EXTINF:-1,陕西都市青春
 http://gxlive.snrtv.com/sx2-SD.m3u8
+#EXTINF:-1,陕西银铃
+http://gxlive.snrtv.com/sx3-SD.m3u8
 #EXTINF:-1,陕西秦腔
 http://gxlive.snrtv.com/sx5-SD.m3u8
 #EXTINF:-1,陕西体育休闲
@@ -817,16 +833,14 @@ http://39.134.136.161:6610/000000001000/2000000002000000007/index.m3u8
 http://39.134.136.161:6610/000000001000/1000000006000270002/index.m3u8
 #EXTINF:-1,睛彩广场舞
 http://39.134.136.161:6610/000000001000/1000000006000270005/index.m3u8
-#EXTINF:-1,9
-http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8
-#EXTINF:-1,5
-http://39.134.136.161:6610/000000001000/reallive-cctv5/index.m3u8
 #EXTINF:-1,上海新闻综合
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000005/index.m3u8
 #EXTINF:-1,上海都市
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000012/index.m3u8
 #EXTINF:-1,Animal Planet
 http://212.102.60.231:80/Animal_Planet/index.m3u8
+#EXTINF:-1,MTV Live
+http://212.102.60.231:80/MTV_LIVE/index.m3u8
 #EXTINF:-1,HGTV
 http://212.102.60.231:80/HGTV/index.m3u8
 #EXTINF:-1,National Geographic Wild
@@ -849,8 +863,6 @@ http://212.102.60.231/LIFETIME/index.m3u8
 http://212.102.60.231/NICK_JR/index.m3u8
 #EXTINF:-1,Blue Hustler
 http://18.svi-studio.com:80/live/176844830209/558261845324/101422.m3u8
-#EXTINF:-1,Miami TV
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1,Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1,ACC Network
@@ -897,6 +909,8 @@ http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1,Disney Jr.
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1,E Entertainment
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1,Freeform East
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1,Food Network
@@ -915,6 +929,8 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1,MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1,MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1,National Geographic East
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1,National Geographi Wild
@@ -1029,12 +1045,12 @@ http://41.205.93.154/BRAVO/index.m3u8
 http://tencentplay.gztv.com/live/yingshi.m3u8
 #EXTINF:-1,广州南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8
-#EXTINF:-1,5+
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-#EXTINF:-1,CHC动作电影
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1,CHC动作电影
 http://[2409:8087:7008:20::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1,CHC影迷电影
+http://[2409:8087:7008:20::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1,CHC影迷电影
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1,CHC家庭影院
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1,游戏风云
@@ -1047,8 +1063,12 @@ https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8
 https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 #EXTINF:-1,陕西卫视
 http://stream.snrtv.com/sxbc-star-xAE013.m3u8
+#EXTINF:-1,陕西新闻资讯
+http://gxlive.snrtv.com/sx1-SD.m3u8
 #EXTINF:-1,陕西都市青春
 http://gxlive.snrtv.com/sx2-SD.m3u8
+#EXTINF:-1,陕西银铃
+http://gxlive.snrtv.com/sx3-SD.m3u8
 #EXTINF:-1,陕西秦腔
 http://gxlive.snrtv.com/sx5-SD.m3u8
 #EXTINF:-1,陕西体育休闲
@@ -1083,16 +1103,14 @@ http://39.134.136.161:6610/000000001000/2000000002000000007/index.m3u8
 http://39.134.136.161:6610/000000001000/1000000006000270002/index.m3u8
 #EXTINF:-1,睛彩广场舞
 http://39.134.136.161:6610/000000001000/1000000006000270005/index.m3u8
-#EXTINF:-1,9
-http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8
-#EXTINF:-1,5
-http://39.134.136.161:6610/000000001000/reallive-cctv5/index.m3u8
 #EXTINF:-1,上海新闻综合
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000005/index.m3u8
 #EXTINF:-1,上海都市
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000012/index.m3u8
 #EXTINF:-1,Animal Planet
 http://212.102.60.231:80/Animal_Planet/index.m3u8
+#EXTINF:-1,MTV Live
+http://212.102.60.231:80/MTV_LIVE/index.m3u8
 #EXTINF:-1,HGTV
 http://212.102.60.231:80/HGTV/index.m3u8
 #EXTINF:-1,National Geographic Wild
