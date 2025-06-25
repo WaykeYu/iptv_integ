@@ -99,37 +99,34 @@ https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
 #EXTINF:33 aktv-group="astro" tvg-id="astro/8tv" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",8TV
 https://s1.m16tv.cfd/astro/8tv/AKTV.m3u8
 
-#EXTINF:34 aktv-group="taiwan" tvg-id="taiwan/tvbs" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",TVBS
-https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
-
-#EXTINF:35 aktv-group="taiwan" tvg-id="taiwan/CH-3" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",中視
+#EXTINF:34 aktv-group="taiwan" tvg-id="taiwan/CH-3" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",My Cinema Europe HD 我的歐洲電影
 https://s1.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
 
-#EXTINF:36 aktv-group="taiwan" tvg-id="taiwan/CH-5" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",中視經典台
-https://s1.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
+#EXTINF:35 aktv-group="taiwan" tvg-id="taiwan/tvbs" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",TVBS
+https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 
-#EXTINF:37 aktv-group="taiwan" tvg-id="taiwan/CH-2" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",台視
+#EXTINF:36 aktv-group="taiwan" tvg-id="taiwan/CH-2" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",影迷數位紀實台
 https://s1.m16tv.cfd/taiwan/CH-2/AKTV.m3u8
 
-#EXTINF:38 aktv-group="taiwan" tvg-id="taiwan/CH-1" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視
+#EXTINF:37 aktv-group="taiwan" tvg-id="taiwan/CH-1" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視
 https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
 
-#EXTINF:39 aktv-group="taiwan" tvg-id="taiwan/CH-0" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視第一台
+#EXTINF:38 aktv-group="taiwan" tvg-id="taiwan/CH-0" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視第一台
 https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
 
-#EXTINF:40 aktv-group="taiwan" tvg-id="taiwan/CH-4" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視綜藝台
-https://s1.m16tv.cfd/taiwan/CH-4/AKTV.m3u8
+#EXTINF:39 aktv-group="taiwan" tvg-id="taiwan/CH-5" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",龍華日韓台
+https://s1.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
 
-#EXTINF:41 aktv-group="taiwan2" tvg-id="taiwan2/tvb" tvg-logo="" provider="taiwan2" provider-logo="" provider-type="iptv",TVB 星河
+#EXTINF:40 aktv-group="taiwan2" tvg-id="taiwan2/tvb" tvg-logo="" provider="taiwan2" provider-logo="" provider-type="iptv",TVB 星河
 https://s1.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
 
-#EXTINF:42 aktv-group="TVBS" tvg-id="tvbs/tvbs" tvg-logo="" provider="TVBS" provider-logo="" provider-type="iptv",TVBS新聞
+#EXTINF:41 aktv-group="TVBS" tvg-id="tvbs/tvbs" tvg-logo="" provider="TVBS" provider-logo="" provider-type="iptv",TVBS新聞
 https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 
-#EXTINF:43 aktv-group="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",中天新闻台
+#EXTINF:42 aktv-group="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",中天新闻台
 https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 
-#EXTINF:44 aktv-group="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",東森新聞
+#EXTINF:43 aktv-group="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",東森新聞
 https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
 
@@ -233,36 +230,33 @@ https://s2.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
 #EXTINF:33 aktv-group="astro" tvg-id="astro/8tv" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",8TV
 https://s2.m16tv.cfd/astro/8tv/AKTV.m3u8
 
-#EXTINF:34 aktv-group="taiwan" tvg-id="taiwan/tvbs" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",TVBS
-https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
-
-#EXTINF:35 aktv-group="taiwan" tvg-id="taiwan/CH-3" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",中視
+#EXTINF:34 aktv-group="taiwan" tvg-id="taiwan/CH-3" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",My Cinema Europe HD 我的歐洲電影
 https://s2.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
 
-#EXTINF:36 aktv-group="taiwan" tvg-id="taiwan/CH-5" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",中視經典台
-https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
+#EXTINF:35 aktv-group="taiwan" tvg-id="taiwan/tvbs" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",TVBS
+https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 
-#EXTINF:37 aktv-group="taiwan" tvg-id="taiwan/CH-2" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",台視
+#EXTINF:36 aktv-group="taiwan" tvg-id="taiwan/CH-2" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",影迷數位紀實台
 https://s2.m16tv.cfd/taiwan/CH-2/AKTV.m3u8
 
-#EXTINF:38 aktv-group="taiwan" tvg-id="taiwan/CH-1" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視
+#EXTINF:37 aktv-group="taiwan" tvg-id="taiwan/CH-1" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視
 https://s2.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
 
-#EXTINF:39 aktv-group="taiwan" tvg-id="taiwan/CH-0" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視第一台
+#EXTINF:38 aktv-group="taiwan" tvg-id="taiwan/CH-0" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視第一台
 https://s2.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
 
-#EXTINF:40 aktv-group="taiwan" tvg-id="taiwan/CH-4" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視綜藝台
-https://s2.m16tv.cfd/taiwan/CH-4/AKTV.m3u8
+#EXTINF:39 aktv-group="taiwan" tvg-id="taiwan/CH-5" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",龍華日韓台
+https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
 
-#EXTINF:41 aktv-group="taiwan2" tvg-id="taiwan2/tvb" tvg-logo="" provider="taiwan2" provider-logo="" provider-type="iptv",TVB 星河
+#EXTINF:40 aktv-group="taiwan2" tvg-id="taiwan2/tvb" tvg-logo="" provider="taiwan2" provider-logo="" provider-type="iptv",TVB 星河
 https://s2.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
 
-#EXTINF:42 aktv-group="TVBS" tvg-id="tvbs/tvbs" tvg-logo="" provider="TVBS" provider-logo="" provider-type="iptv",TVBS新聞
+#EXTINF:41 aktv-group="TVBS" tvg-id="tvbs/tvbs" tvg-logo="" provider="TVBS" provider-logo="" provider-type="iptv",TVBS新聞
 https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 
-#EXTINF:43 aktv-group="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",中天新闻台
+#EXTINF:42 aktv-group="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",中天新闻台
 https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 
-#EXTINF:44 aktv-group="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",東森新聞
+#EXTINF:43 aktv-group="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",東森新聞
 https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
