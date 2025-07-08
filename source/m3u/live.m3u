@@ -138,12 +138,15 @@ https://s1.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
 #EXTINF:46 aktv-group="taiwan2" tvg-id="taiwan2/tvb" tvg-logo="" provider="taiwan2" provider-logo="" provider-type="iptv",TVB 星河
 https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
 
-#EXTINF:47 aktv-group="TVBS" tvg-id="tvbs/tvbs" tvg-logo="" provider="TVBS" provider-logo="" provider-type="iptv",TVBS新聞
+#EXTINF:47 aktv-group="test" tvg-id="test/test01" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",test01
+https://s1.tvm4a1.cfd/test/test01/AKTV.m3u8
+
+#EXTINF:48 aktv-group="TVBS" tvg-id="tvbs/tvbs" tvg-logo="" provider="TVBS" provider-logo="" provider-type="iptv",TVBS新聞
 https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
 
-#EXTINF:48 aktv-group="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",中天新闻台
+#EXTINF:49 aktv-group="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",中天新闻台
 https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
 
-#EXTINF:49 aktv-group="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",東森新聞
+#EXTINF:50 aktv-group="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",東森新聞
 https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
 
