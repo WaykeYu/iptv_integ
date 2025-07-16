@@ -377,6 +377,8 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTGRP:未分類頻道
 #EXTINF:-1,Blue Hustler
 http://18.svi-studio.com:80/live/176844830209/558261845324/101422.m3u8
+#EXTINF:-1,Miami TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1,Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1,ACC Network
@@ -423,6 +425,8 @@ http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1,Disney Jr.
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1,E Entertainment
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1,Freeform East
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1,Food Network
@@ -431,6 +435,8 @@ http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1,Hallmark Drama
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1,HGTV
+http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1,ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1,Motor Trend
@@ -495,7 +501,7 @@ http://fl5.moveonjoy.com/TSN_3/index.m3u8
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1,TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1,East
+#EXTINF:-1,truTV East
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1,TV One
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
@@ -529,11 +535,13 @@ http://38.96.178.201/live/Discovery/index.m3u8
 http://38.96.178.201/live/CartoonNetwork/index.m3u8
 #EXTINF:-1,EBS+ 1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,Korean Music
+http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1,Eurosport 1 西语
 http://185.189.225.150:85/Eurosport1/index.m3u8
 #EXTINF:-1,Eurosport 2 西语
 http://185.189.225.150:85/Eurosport2/index.m3u8
-#EXTINF:-1,90's
+#EXTINF:-1,MTV 90's
 http://185.189.225.157/mtv90s/index.m3u8
 #EXTINF:-1,MTV Hits
 http://185.189.225.157/MTVHits/index.m3u8
@@ -555,6 +563,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1,bravo
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1,广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8
 #EXTINF:-1,广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8
 #EXTINF:-1,广州影视
@@ -651,6 +661,8 @@ http://212.102.60.231/LIFETIME/index.m3u8
 http://212.102.60.231/NICK_JR/index.m3u8
 #EXTINF:-1,Blue Hustler
 http://18.svi-studio.com:80/live/176844830209/558261845324/101422.m3u8
+#EXTINF:-1,Miami TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1,Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1,ACC Network
@@ -697,6 +709,8 @@ http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1,Disney Jr.
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1,E Entertainment
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1,Freeform East
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1,Food Network
@@ -705,6 +719,8 @@ http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1,Hallmark Drama
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1,HGTV
+http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1,ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1,Motor Trend
@@ -769,7 +785,7 @@ http://fl5.moveonjoy.com/TSN_3/index.m3u8
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1,TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1,East
+#EXTINF:-1,truTV East
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1,TV One
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
@@ -803,11 +819,13 @@ http://38.96.178.201/live/Discovery/index.m3u8
 http://38.96.178.201/live/CartoonNetwork/index.m3u8
 #EXTINF:-1,EBS+ 1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,Korean Music
+http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1,Eurosport 1 西语
 http://185.189.225.150:85/Eurosport1/index.m3u8
 #EXTINF:-1,Eurosport 2 西语
 http://185.189.225.150:85/Eurosport2/index.m3u8
-#EXTINF:-1,90's
+#EXTINF:-1,MTV 90's
 http://185.189.225.157/mtv90s/index.m3u8
 #EXTINF:-1,MTV Hits
 http://185.189.225.157/MTVHits/index.m3u8
@@ -829,6 +847,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1,bravo
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1,广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8
 #EXTINF:-1,广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8
 #EXTINF:-1,广州影视
@@ -925,6 +945,8 @@ http://212.102.60.231/LIFETIME/index.m3u8
 http://212.102.60.231/NICK_JR/index.m3u8
 #EXTINF:-1,Blue Hustler
 http://18.svi-studio.com:80/live/176844830209/558261845324/101422.m3u8
+#EXTINF:-1,Miami TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1,Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1,ACC Network
@@ -971,6 +993,8 @@ http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1,Disney Jr.
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1,E Entertainment
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1,Freeform East
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1,Food Network
@@ -979,6 +1003,8 @@ http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1,Hallmark Drama
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1,HGTV
+http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1,ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1,Motor Trend
@@ -1043,7 +1069,7 @@ http://fl5.moveonjoy.com/TSN_3/index.m3u8
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1,TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1,East
+#EXTINF:-1,truTV East
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1,TV One
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
@@ -1077,11 +1103,13 @@ http://38.96.178.201/live/Discovery/index.m3u8
 http://38.96.178.201/live/CartoonNetwork/index.m3u8
 #EXTINF:-1,EBS+ 1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,Korean Music
+http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1,Eurosport 1 西语
 http://185.189.225.150:85/Eurosport1/index.m3u8
 #EXTINF:-1,Eurosport 2 西语
 http://185.189.225.150:85/Eurosport2/index.m3u8
-#EXTINF:-1,90's
+#EXTINF:-1,MTV 90's
 http://185.189.225.157/mtv90s/index.m3u8
 #EXTINF:-1,MTV Hits
 http://185.189.225.157/MTVHits/index.m3u8
@@ -1103,6 +1131,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1,bravo
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1,广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8
 #EXTINF:-1,广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8
 #EXTINF:-1,广州影视
