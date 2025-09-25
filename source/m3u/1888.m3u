@@ -5,302 +5,110 @@
 https://18.svi-studio.com:80/live/176844830209/558261845324/4.m3u8
 #EXTINF:-1,松视1
 https://18.svi-studio.com/live/426804892399/739490745427/5.m3u8
-#EXTINF:-1,松视1
+#EXTINF:-1,松视1 (备用)
 https://18.svi-studio.com:80/live/176844830209/558261845324/5.m3u8
 #EXTINF:-1,松视2
 https://18.svi-studio.com:80/live/176844830209/558261845324/6.m3u8
 #EXTINF:-1,VISIT-X
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1,Disney XD
-http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1,FX East
-http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1,FXM
-http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1,FXX East
-http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1,FOX HD
-http://38.96.178.201/live/FOXHD/index.m3u8
-#EXTINF:-1,Disney XD
-http://38.96.178.201/live/DisneyXD/index.m3u8
 #EXTINF:-1,FOX Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1,精品剧场
-http://39.134.136.161:6610/000000001000/2000000004000000002/index.m3u8
 #EXTINF:-1,CINEMAX
 http://212.102.60.231:80/CINEMAX/index.m3u8
+#EXTINF:-1,NEWSMAX 美国
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,Xplore
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-xplore-samsungin/playlist.m3u8
+#EXTINF:-1,Xplore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1,香蕉
 https://18.svi-studio.com:80/live/176844830209/558261845324/4.m3u8
 #EXTINF:-1,松视1
 https://18.svi-studio.com/live/426804892399/739490745427/5.m3u8
-#EXTINF:-1,松视1
+#EXTINF:-1,松视1 (备用)
 https://18.svi-studio.com:80/live/176844830209/558261845324/5.m3u8
 #EXTINF:-1,松视2
 https://18.svi-studio.com:80/live/176844830209/558261845324/6.m3u8
 #EXTINF:-1,VISIT-X
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1,Disney XD
-http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1,FX East
-http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1,FXM
-http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1,FXX East
-http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1,FOX HD
-http://38.96.178.201/live/FOXHD/index.m3u8
-#EXTINF:-1,Disney XD
-http://38.96.178.201/live/DisneyXD/index.m3u8
 #EXTINF:-1,FOX Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1,精品剧场
-http://39.134.136.161:6610/000000001000/2000000004000000002/index.m3u8
 #EXTINF:-1,CINEMAX
 http://212.102.60.231:80/CINEMAX/index.m3u8
+#EXTINF:-1,NEWSMAX 美国
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,Xplore
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-xplore-samsungin/playlist.m3u8
+#EXTINF:-1,Xplore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1,香蕉
 https://18.svi-studio.com:80/live/176844830209/558261845324/4.m3u8
 #EXTINF:-1,松视1
 https://18.svi-studio.com/live/426804892399/739490745427/5.m3u8
-#EXTINF:-1,松视1
+#EXTINF:-1,松视1 (备用)
 https://18.svi-studio.com:80/live/176844830209/558261845324/5.m3u8
 #EXTINF:-1,松视2
 https://18.svi-studio.com:80/live/176844830209/558261845324/6.m3u8
 #EXTINF:-1,VISIT-X
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1,Disney XD
-http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1,FX East
-http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1,FXM
-http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1,FXX East
-http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1,FOX HD
-http://38.96.178.201/live/FOXHD/index.m3u8
-#EXTINF:-1,Disney XD
-http://38.96.178.201/live/DisneyXD/index.m3u8
 #EXTINF:-1,FOX Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1,精品剧场
-http://39.134.136.161:6610/000000001000/2000000004000000002/index.m3u8
 #EXTINF:-1,CINEMAX
 http://212.102.60.231:80/CINEMAX/index.m3u8
+#EXTINF:-1,NEWSMAX 美国
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,Xplore
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-xplore-samsungin/playlist.m3u8
+#EXTINF:-1,Xplore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 
 #EXTGRP:體育頻道
-#EXTINF:-1,ESPN 2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1,ESPN News
-http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1,ESPN U
-http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1,ESPN HD
-http://38.96.178.201/live/ESPNHD/index.m3u8
 #EXTINF:-1,ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1,CCTV风云足球
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-#EXTINF:-1,CCTV风云足球
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8
-#EXTINF:-1,ESPN 2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1,ESPN News
-http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1,ESPN U
-http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1,ESPN HD
-http://38.96.178.201/live/ESPNHD/index.m3u8
+#EXTINF:-1,Real Madrid 皇马足球俱乐部
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1,ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1,CCTV风云足球
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-#EXTINF:-1,CCTV风云足球
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8
-#EXTINF:-1,ESPN 2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1,ESPN News
-http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1,ESPN U
-http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1,ESPN HD
-http://38.96.178.201/live/ESPNHD/index.m3u8
+#EXTINF:-1,Real Madrid 皇马足球俱乐部
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1,ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1,CCTV风云足球
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-#EXTINF:-1,CCTV风云足球
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8
+#EXTINF:-1,Real Madrid 皇马足球俱乐部
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTGRP:新聞頻道
-#EXTINF:-1,CNBC
-https://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1,BBC America
-http://38.96.178.201/live/BBCAmerica/index.m3u8
-#EXTINF:-1,CCTV4
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-#EXTINF:-1,CCTV5
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1,CCTV5+
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-#EXTINF:-1,CCTV6
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-#EXTINF:-1,CCTV8
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-#EXTINF:-1,CCTV9
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-#EXTINF:-1,CCTV13
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-#EXTINF:-1,CCTV16奥林匹克
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-#EXTINF:-1,CCTV世界地理
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
-#EXTINF:-1,CCTV世界地理
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-#EXTINF:-1,CCTV兵器科技
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1,CCTV央视台球
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-#EXTINF:-1,CCTV女性时尚
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
-#EXTINF:-1,CCTV女性时尚
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-#EXTINF:-1,CCTV怀旧剧场
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
-#EXTINF:-1,CCTV怀旧剧场
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1,CCTV风云剧场
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-#EXTINF:-1,CCTV风云音乐
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1,CCTV4
-http://39.134.136.161:6610/000000001000/5000000011000031102/index.m3u8
-#EXTINF:-1,CCTV5
-http://39.134.136.161:6610/000000001000/5000000010000016619/index.m3u8
-#EXTINF:-1,CCTV7
-http://39.134.136.161:6610/000000001000/5000000011000031104/index.m3u8
-#EXTINF:-1,CCTV9
-http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8
-#EXTINF:-1,CNBC
-https://fl2.moveonjoy.com/CNBC/index.m3u8
+http://208.86.19.13:81/34.stream/index.m3u8
 #EXTINF:-1,BBC America
-http://38.96.178.201/live/BBCAmerica/index.m3u8
-#EXTINF:-1,CCTV4
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-#EXTINF:-1,CCTV5
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1,CCTV5+
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-#EXTINF:-1,CCTV6
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-#EXTINF:-1,CCTV8
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-#EXTINF:-1,CCTV9
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-#EXTINF:-1,CCTV13
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-#EXTINF:-1,CCTV16奥林匹克
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-#EXTINF:-1,CCTV世界地理
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
-#EXTINF:-1,CCTV世界地理
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-#EXTINF:-1,CCTV兵器科技
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1,CCTV央视台球
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-#EXTINF:-1,CCTV女性时尚
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
-#EXTINF:-1,CCTV女性时尚
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-#EXTINF:-1,CCTV怀旧剧场
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
-#EXTINF:-1,CCTV怀旧剧场
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1,CCTV风云剧场
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-#EXTINF:-1,CCTV风云音乐
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1,CCTV4
-http://39.134.136.161:6610/000000001000/5000000011000031102/index.m3u8
-#EXTINF:-1,CCTV5
-http://39.134.136.161:6610/000000001000/5000000010000016619/index.m3u8
-#EXTINF:-1,CCTV7
-http://39.134.136.161:6610/000000001000/5000000011000031104/index.m3u8
-#EXTINF:-1,CCTV9
-http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8
-#EXTINF:-1,CNBC
-https://fl2.moveonjoy.com/CNBC/index.m3u8
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1,BBC news 英国
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1,BBC America
-http://38.96.178.201/live/BBCAmerica/index.m3u8
-#EXTINF:-1,CCTV4
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-#EXTINF:-1,CCTV5
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1,CCTV5+
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-#EXTINF:-1,CCTV6
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-#EXTINF:-1,CCTV8
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-#EXTINF:-1,CCTV9
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-#EXTINF:-1,CCTV13
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-#EXTINF:-1,CCTV16奥林匹克
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-#EXTINF:-1,CCTV世界地理
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
-#EXTINF:-1,CCTV世界地理
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-#EXTINF:-1,CCTV兵器科技
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1,CCTV央视台球
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-#EXTINF:-1,CCTV女性时尚
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
-#EXTINF:-1,CCTV女性时尚
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-#EXTINF:-1,CCTV怀旧剧场
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
-#EXTINF:-1,CCTV怀旧剧场
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1,CCTV风云剧场
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-#EXTINF:-1,CCTV风云音乐
-http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1,CCTV4
-http://39.134.136.161:6610/000000001000/5000000011000031102/index.m3u8
-#EXTINF:-1,CCTV5
-http://39.134.136.161:6610/000000001000/5000000010000016619/index.m3u8
-#EXTINF:-1,CCTV7
-http://39.134.136.161:6610/000000001000/5000000011000031104/index.m3u8
-#EXTINF:-1,CCTV9
-http://39.134.136.161:6610/000000001000/5000000010000018384/index.m3u8
+http://208.86.19.13:81/34.stream/index.m3u8
+#EXTINF:-1,BBC America
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1,BBC news 英国
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,BBC America
+http://208.86.19.13:81/34.stream/index.m3u8
+#EXTINF:-1,BBC America
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1,BBC news 英国
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTGRP:電影頻道
-#EXTINF:-1,Cinemax
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1,HBO
-https://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1,HBO
 http://212.102.60.231:80/HBO/index.m3u8
 #EXTINF:-1,HBO 2
 http://212.102.60.231/HBO_2/index.m3u8
 #EXTINF:-1,HBO FAMILY
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1,Cinemax
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1,HBO
-https://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1,HBO
 http://212.102.60.231:80/HBO/index.m3u8
 #EXTINF:-1,HBO 2
 http://212.102.60.231/HBO_2/index.m3u8
 #EXTINF:-1,HBO FAMILY
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1,Cinemax
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1,HBO
-https://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1,HBO
 http://212.102.60.231:80/HBO/index.m3u8
 #EXTINF:-1,HBO 2
@@ -313,176 +121,22 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 http://18.svi-studio.com:80/live/176844830209/558261845324/101422.m3u8
 #EXTINF:-1,Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1,ACC Network
-http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1,amc Network
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1,American Hereos Channel
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1,Animal Planet
-http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1,Bally Sports Florida
-https://fl6.moveonjoy.com/BALLY_SPORTS_FLORIDA/index.m3u8
-#EXTINF:-1,beIN Sports
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1,BET
-http://fl2.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1,BET Her East
-http://fl2.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1,Big Ten Network
-http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1,Bloomberg
-http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1,Bravo
-http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1,Cartoon Network
-https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1,CBS
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1,CBS Sports Network
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1,Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1,Cooking Channel
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1,C-SPAN
-http://fl2.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1,Discovery Family
-http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1,Discovery Life
-http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1,Disney Channel
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1,Disney Jr.
-https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1,E Entertainment
-http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1,Freeform East
-http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1,Food Network
-http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1,FUSE
-http://fl2.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1,Hallmark Drama
-http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1,ION
-http://fl2.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1,Motor Trend
-http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1,MTV Live
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1,MTV 2
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1,MLB Network
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1,MTV
-https://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1,National Geographic East
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1,National Geographi Wild
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1,NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1,NHL Network
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1,Outdoor Channel
-http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1,OWN
-http://fl2.moveonjoy.com/OWN/index.m3u8
-#EXTINF:-1,Paramount Network East
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1,ReelzChannel
-http://fl2.moveonjoy.com/REELZ/index.m3u8
-#EXTINF:-1,Revolt
-http://fl2.moveonjoy.com/REVOLT/index.m3u8
-#EXTINF:-1,SEC Network
-https://fl6.moveonjoy.com/SEC_NETWORK/index.m3u8
-#EXTINF:-1,Showtime Next
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1,Showtime Women East
-http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1,Starz Encore
-http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1,Starz
-http://fl2.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1,SYFY
-http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1,SUNDANCE
-http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1,tbs
-http://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1,Tennis Channel
-https://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1,The Weather Channel
-http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1,TNT
-http://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1,TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1,TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1,TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1,TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1,TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1,East
-http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1,TV One
-http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1,USA Network
-http://fl2.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1,VH1
-http://fl2.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1,Vice
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1,WE TV
-http://fl1.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1,YES Network
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1,Comedy Central
-http://38.96.178.201/live/ComedyCentral/index.m3u8
-#EXTINF:-1,Food Network
-http://38.96.178.201/live/FoodNetwork/index.m3u8
-#EXTINF:-1,Tennis
-http://38.96.178.201/live/TENNIS/index.m3u8
-#EXTINF:-1,HBC HD
-http://38.96.178.201/live/NBCHD/index.m3u8
-#EXTINF:-1,Animal Planet
-http://38.96.178.201/live/AnimalPlanet/index.m3u8
-#EXTINF:-1,SYFY HD
-http://38.96.178.201/live/SYFYHD/index.m3u8
-#EXTINF:-1,ABC HD
-http://38.96.178.201/live/ABCHD/index.m3u8
-#EXTINF:-1,Discovery
-http://38.96.178.201/live/Discovery/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://38.96.178.201/live/CartoonNetwork/index.m3u8
+#EXTINF:-1,Brazzers TV Europe
+http://31.148.48.15/Brazzers_TV_Europe/playlist.m3u8
+#EXTINF:-1,French Lover
+http://31.148.48.15/French_Lover/mono.m3u8
+#EXTINF:-1,Playboy TV
+http://31.148.48.15/Playboy_TV/playlist.m3u8
+#EXTINF:-1,Playboy HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1,EBS+ 1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,Korean Music
 http://live.kytv.co.kr:8080/hls/stream.m3u8
-#EXTINF:-1,Eurosport 1 西语
-http://185.189.225.150:85/Eurosport1/index.m3u8
-#EXTINF:-1,Eurosport 2 西语
-http://185.189.225.150:85/Eurosport2/index.m3u8
-#EXTINF:-1,90's
+#EXTINF:-1,MTV 90's
 http://185.189.225.157/mtv90s/index.m3u8
-#EXTINF:-1,MTV Hits
+#EXTINF:-1,Hits
 http://185.189.225.157/MTVHits/index.m3u8
-#EXTINF:-1,C-SPAN
-http://143.244.60.97/C-SPAN/index.m3u8
-#EXTINF:-1,Disney Jr.
-http://143.244.60.97/DISNEY_JR/index.m3u8
-#EXTINF:-1,HGTV
-http://143.244.60.97/HGTV/index.m3u8
-#EXTINF:-1,Animal Planet
-http://143.244.60.97/Animal_Planet/index.m3u8
 #EXTINF:-1,Animal Planet
 http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1,MSNBC
@@ -501,78 +155,8 @@ http://tencentplay.gztv.com/live/zonghes.m3u8
 http://tencentplay.gztv.com/live/yingshi.m3u8
 #EXTINF:-1,广州南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8
-#EXTINF:-1,10
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-#EXTINF:-1,央视台球
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-#EXTINF:-1,第一剧场
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
-#EXTINF:-1,指南
-http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1,CHC影迷电影
-http://[2409:8087:7008:20::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1,CHC影迷电影
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1,CHC家庭影院
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-#EXTINF:-1,游戏风云
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1,西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8
-#EXTINF:-1,海峡卫视
-https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8
-#EXTINF:-1,江西卫视
-https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
-#EXTINF:-1,陕西卫视
-http://stream.snrtv.com/sxbc-star-xAE013.m3u8
-#EXTINF:-1,陕西新闻资讯
-http://gxlive.snrtv.com/sx1-SD.m3u8
-#EXTINF:-1,陕西都市青春
-http://gxlive.snrtv.com/sx2-SD.m3u8
-#EXTINF:-1,陕西银铃
-http://gxlive.snrtv.com/sx3-SD.m3u8
-#EXTINF:-1,陕西秦腔
-http://gxlive.snrtv.com/sx5-SD.m3u8
-#EXTINF:-1,陕西体育休闲
-http://gxlive.snrtv.com/sx7-SD.m3u8
-#EXTINF:-1,陕西西部电影
-http://gxlive.snrtv.com/sx8-SD.m3u8
-#EXTINF:-1,纪实人文
-http://39.134.136.161:6610/000000001000/7081356299464623208/index.m3u8
-#EXTINF:-1,东方影视
-http://39.134.136.161:6610/000000001000/2000000002000000013/index.m3u8
-#EXTINF:-1,Hot亚洲影院
-http://39.134.136.161:6610/000000001000/5841816227539527643/index.m3u8
-#EXTINF:-1,Hot欧美影院
-http://39.134.136.161:6610/000000001000/7185203501769528108/index.m3u8
-#EXTINF:-1,中国天气
-http://39.134.136.161:6610/000000001000/2000000002000000057/index.m3u8
-#EXTINF:-1,亚洲影院
-http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8
-#EXTINF:-1,欧美影院
-http://39.134.136.161:6610/000000001000/2000000004000000005/index.m3u8
-#EXTINF:-1,哈哈炫动
-http://39.134.136.161:6610/000000001000/5101217554085087042/index.m3u8
-#EXTINF:-1,上海都市
-http://39.134.136.161:6610/000000001000/2000000002000000012/index.m3u8
-#EXTINF:-1,生活时尚
-http://39.134.136.161:6610/000000001000/2000000002000000006/index.m3u8
-#EXTINF:-1,第一财经
-http://39.134.136.161:6610/000000001000/2000000002000000004/index.m3u8
-#EXTINF:-1,五星体育
-http://39.134.136.161:6610/000000001000/2000000002000000007/index.m3u8
-#EXTINF:-1,睛彩篮球
-http://39.134.136.161:6610/000000001000/1000000006000270002/index.m3u8
-#EXTINF:-1,睛彩广场舞
-http://39.134.136.161:6610/000000001000/1000000006000270005/index.m3u8
-#EXTINF:-1,2
-http://39.134.136.161:6610/000000001000/5000000011000031101/index.m3u8
-#EXTINF:-1,5
-http://39.134.136.161:6610/000000001000/reallive-cctv5/index.m3u8
-#EXTINF:-1,上海新闻综合
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000005/index.m3u8
-#EXTINF:-1,上海都市
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000012/index.m3u8
+#EXTINF:-1,兵团卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1,Animal Planet
 http://212.102.60.231:80/Animal_Planet/index.m3u8
 #EXTINF:-1,Live
@@ -597,180 +181,150 @@ http://212.102.60.231:80/MTV/index.m3u8
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1,nick jr.
 http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1,浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1,浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1,浙江综合
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1,浙江影视娱乐
+https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1,浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1,浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1,浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1,浙江之江记录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1,台 卡塔尔
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,aMC 电影
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1,AMC Thrillers 电影
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1,arirang Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,arirang Korea
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1,astro AWANI 马来西亚
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1,Bloomberg 美国
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1,Bloomberg 亚洲
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1,CBN News 美国
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,CBS News 美国
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1,CBS News 美国
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1,CBS Mixible (ET)
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1,CBS Sports
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1,CNA 新加坡
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,DW 德国
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1,EWTN 宗教
+https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
+#EXTINF:-1,Fashion TV Midnite
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Fite TV
+https://4d362f8e.wurl.com/U3BvcnRzVFZfUEZMTU1BX0hMUw/playlist.m3u8
+#EXTINF:-1,Global NEWS 加拿大
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1,Horror Machine
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
+#EXTINF:-1,INDIA TODAY
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1,INDIA TODAY
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1,KMTV 3 News Now OMAHA
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1,Kordia TV 音乐
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1,M2o 音乐
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
+#EXTINF:-1,mix fm 音乐
+http://strm.mixlive.eu/mixfm/tracks-v3a1/mono.m3u8
+#EXTINF:-1,MOTO AMERICA TV
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
+#EXTINF:-1,MOVIE SPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,MTV Hits
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8
+#EXTINF:-1,NBC Home
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1,New Movies 韩国电影
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+#EXTINF:-1,New Movies 韩国电影
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+#EXTINF:-1,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,Real Wild 新西兰
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,Rush by AMC 电影
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1,Russia Today 俄罗斯
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1,Russia Today 俄罗斯
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1,Russia Today Documentary 俄罗斯
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1,SBS 韩国
+http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
+#EXTINF:-1,Schwab Network 财经
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1,TAIWAN PLUS
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1,The Weather Channel
+https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
+#EXTINF:-1,TNT 体育频道 美国
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1,True History
+https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
+#EXTINF:-1,tv Peru
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1,V2Beat 音乐
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1,WildEarth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1,WildEarth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1,Yahoo Finance (雅虎财经 英文频道)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Blue Hustler
 http://18.svi-studio.com:80/live/176844830209/558261845324/101422.m3u8
 #EXTINF:-1,Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1,ACC Network
-http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1,amc Network
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1,American Hereos Channel
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1,Animal Planet
-http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1,Bally Sports Florida
-https://fl6.moveonjoy.com/BALLY_SPORTS_FLORIDA/index.m3u8
-#EXTINF:-1,beIN Sports
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1,BET
-http://fl2.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1,BET Her East
-http://fl2.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1,Big Ten Network
-http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1,Bloomberg
-http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1,Bravo
-http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1,Cartoon Network
-https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1,CBS
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1,CBS Sports Network
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1,Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1,Cooking Channel
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1,C-SPAN
-http://fl2.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1,Discovery Family
-http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1,Discovery Life
-http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1,Disney Channel
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1,Disney Jr.
-https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1,E Entertainment
-http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1,Freeform East
-http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1,Food Network
-http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1,FUSE
-http://fl2.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1,Hallmark Drama
-http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1,ION
-http://fl2.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1,Motor Trend
-http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1,MTV Live
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1,MTV 2
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1,MLB Network
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1,MTV
-https://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1,National Geographic East
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1,National Geographi Wild
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1,NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1,NHL Network
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1,Outdoor Channel
-http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1,OWN
-http://fl2.moveonjoy.com/OWN/index.m3u8
-#EXTINF:-1,Paramount Network East
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1,ReelzChannel
-http://fl2.moveonjoy.com/REELZ/index.m3u8
-#EXTINF:-1,Revolt
-http://fl2.moveonjoy.com/REVOLT/index.m3u8
-#EXTINF:-1,SEC Network
-https://fl6.moveonjoy.com/SEC_NETWORK/index.m3u8
-#EXTINF:-1,Showtime Next
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1,Showtime Women East
-http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1,Starz Encore
-http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1,Starz
-http://fl2.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1,SYFY
-http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1,SUNDANCE
-http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1,tbs
-http://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1,Tennis Channel
-https://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1,The Weather Channel
-http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1,TNT
-http://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1,TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1,TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1,TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1,TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1,TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1,East
-http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1,TV One
-http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1,USA Network
-http://fl2.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1,VH1
-http://fl2.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1,Vice
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1,WE TV
-http://fl1.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1,YES Network
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1,Comedy Central
-http://38.96.178.201/live/ComedyCentral/index.m3u8
-#EXTINF:-1,Food Network
-http://38.96.178.201/live/FoodNetwork/index.m3u8
-#EXTINF:-1,Tennis
-http://38.96.178.201/live/TENNIS/index.m3u8
-#EXTINF:-1,HBC HD
-http://38.96.178.201/live/NBCHD/index.m3u8
-#EXTINF:-1,Animal Planet
-http://38.96.178.201/live/AnimalPlanet/index.m3u8
-#EXTINF:-1,SYFY HD
-http://38.96.178.201/live/SYFYHD/index.m3u8
-#EXTINF:-1,ABC HD
-http://38.96.178.201/live/ABCHD/index.m3u8
-#EXTINF:-1,Discovery
-http://38.96.178.201/live/Discovery/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://38.96.178.201/live/CartoonNetwork/index.m3u8
+#EXTINF:-1,Brazzers TV Europe
+http://31.148.48.15/Brazzers_TV_Europe/playlist.m3u8
+#EXTINF:-1,French Lover
+http://31.148.48.15/French_Lover/mono.m3u8
+#EXTINF:-1,Playboy TV
+http://31.148.48.15/Playboy_TV/playlist.m3u8
+#EXTINF:-1,Playboy HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1,EBS+ 1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,Korean Music
 http://live.kytv.co.kr:8080/hls/stream.m3u8
-#EXTINF:-1,Eurosport 1 西语
-http://185.189.225.150:85/Eurosport1/index.m3u8
-#EXTINF:-1,Eurosport 2 西语
-http://185.189.225.150:85/Eurosport2/index.m3u8
-#EXTINF:-1,90's
+#EXTINF:-1,MTV 90's
 http://185.189.225.157/mtv90s/index.m3u8
-#EXTINF:-1,MTV Hits
+#EXTINF:-1,Hits
 http://185.189.225.157/MTVHits/index.m3u8
-#EXTINF:-1,C-SPAN
-http://143.244.60.97/C-SPAN/index.m3u8
-#EXTINF:-1,Disney Jr.
-http://143.244.60.97/DISNEY_JR/index.m3u8
-#EXTINF:-1,HGTV
-http://143.244.60.97/HGTV/index.m3u8
-#EXTINF:-1,Animal Planet
-http://143.244.60.97/Animal_Planet/index.m3u8
 #EXTINF:-1,Animal Planet
 http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1,MSNBC
@@ -789,78 +343,8 @@ http://tencentplay.gztv.com/live/zonghes.m3u8
 http://tencentplay.gztv.com/live/yingshi.m3u8
 #EXTINF:-1,广州南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8
-#EXTINF:-1,10
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-#EXTINF:-1,央视台球
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-#EXTINF:-1,第一剧场
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
-#EXTINF:-1,指南
-http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1,CHC影迷电影
-http://[2409:8087:7008:20::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1,CHC影迷电影
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1,CHC家庭影院
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-#EXTINF:-1,游戏风云
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1,西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8
-#EXTINF:-1,海峡卫视
-https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8
-#EXTINF:-1,江西卫视
-https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
-#EXTINF:-1,陕西卫视
-http://stream.snrtv.com/sxbc-star-xAE013.m3u8
-#EXTINF:-1,陕西新闻资讯
-http://gxlive.snrtv.com/sx1-SD.m3u8
-#EXTINF:-1,陕西都市青春
-http://gxlive.snrtv.com/sx2-SD.m3u8
-#EXTINF:-1,陕西银铃
-http://gxlive.snrtv.com/sx3-SD.m3u8
-#EXTINF:-1,陕西秦腔
-http://gxlive.snrtv.com/sx5-SD.m3u8
-#EXTINF:-1,陕西体育休闲
-http://gxlive.snrtv.com/sx7-SD.m3u8
-#EXTINF:-1,陕西西部电影
-http://gxlive.snrtv.com/sx8-SD.m3u8
-#EXTINF:-1,纪实人文
-http://39.134.136.161:6610/000000001000/7081356299464623208/index.m3u8
-#EXTINF:-1,东方影视
-http://39.134.136.161:6610/000000001000/2000000002000000013/index.m3u8
-#EXTINF:-1,Hot亚洲影院
-http://39.134.136.161:6610/000000001000/5841816227539527643/index.m3u8
-#EXTINF:-1,Hot欧美影院
-http://39.134.136.161:6610/000000001000/7185203501769528108/index.m3u8
-#EXTINF:-1,中国天气
-http://39.134.136.161:6610/000000001000/2000000002000000057/index.m3u8
-#EXTINF:-1,亚洲影院
-http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8
-#EXTINF:-1,欧美影院
-http://39.134.136.161:6610/000000001000/2000000004000000005/index.m3u8
-#EXTINF:-1,哈哈炫动
-http://39.134.136.161:6610/000000001000/5101217554085087042/index.m3u8
-#EXTINF:-1,上海都市
-http://39.134.136.161:6610/000000001000/2000000002000000012/index.m3u8
-#EXTINF:-1,生活时尚
-http://39.134.136.161:6610/000000001000/2000000002000000006/index.m3u8
-#EXTINF:-1,第一财经
-http://39.134.136.161:6610/000000001000/2000000002000000004/index.m3u8
-#EXTINF:-1,五星体育
-http://39.134.136.161:6610/000000001000/2000000002000000007/index.m3u8
-#EXTINF:-1,睛彩篮球
-http://39.134.136.161:6610/000000001000/1000000006000270002/index.m3u8
-#EXTINF:-1,睛彩广场舞
-http://39.134.136.161:6610/000000001000/1000000006000270005/index.m3u8
-#EXTINF:-1,2
-http://39.134.136.161:6610/000000001000/5000000011000031101/index.m3u8
-#EXTINF:-1,5
-http://39.134.136.161:6610/000000001000/reallive-cctv5/index.m3u8
-#EXTINF:-1,上海新闻综合
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000005/index.m3u8
-#EXTINF:-1,上海都市
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000012/index.m3u8
+#EXTINF:-1,兵团卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1,Animal Planet
 http://212.102.60.231:80/Animal_Planet/index.m3u8
 #EXTINF:-1,Live
@@ -885,180 +369,150 @@ http://212.102.60.231:80/MTV/index.m3u8
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1,nick jr.
 http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1,浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1,浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1,浙江综合
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1,浙江影视娱乐
+https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1,浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1,浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1,浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1,浙江之江记录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1,台 卡塔尔
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,aMC 电影
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1,AMC Thrillers 电影
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1,arirang Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,arirang Korea
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1,astro AWANI 马来西亚
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1,Bloomberg 美国
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1,Bloomberg 亚洲
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1,CBN News 美国
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,CBS News 美国
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1,CBS News 美国
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1,CBS Mixible (ET)
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1,CBS Sports
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1,CNA 新加坡
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,DW 德国
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1,EWTN 宗教
+https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
+#EXTINF:-1,Fashion TV Midnite
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Fite TV
+https://4d362f8e.wurl.com/U3BvcnRzVFZfUEZMTU1BX0hMUw/playlist.m3u8
+#EXTINF:-1,Global NEWS 加拿大
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1,Horror Machine
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
+#EXTINF:-1,INDIA TODAY
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1,INDIA TODAY
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1,KMTV 3 News Now OMAHA
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1,Kordia TV 音乐
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1,M2o 音乐
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
+#EXTINF:-1,mix fm 音乐
+http://strm.mixlive.eu/mixfm/tracks-v3a1/mono.m3u8
+#EXTINF:-1,MOTO AMERICA TV
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
+#EXTINF:-1,MOVIE SPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,MTV Hits
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8
+#EXTINF:-1,NBC Home
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1,New Movies 韩国电影
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+#EXTINF:-1,New Movies 韩国电影
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+#EXTINF:-1,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,Real Wild 新西兰
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,Rush by AMC 电影
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1,Russia Today 俄罗斯
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1,Russia Today 俄罗斯
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1,Russia Today Documentary 俄罗斯
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1,SBS 韩国
+http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
+#EXTINF:-1,Schwab Network 财经
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1,TAIWAN PLUS
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1,The Weather Channel
+https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
+#EXTINF:-1,TNT 体育频道 美国
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1,True History
+https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
+#EXTINF:-1,tv Peru
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1,V2Beat 音乐
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1,WildEarth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1,WildEarth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1,Yahoo Finance (雅虎财经 英文频道)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Blue Hustler
 http://18.svi-studio.com:80/live/176844830209/558261845324/101422.m3u8
 #EXTINF:-1,Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1,ACC Network
-http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1,amc Network
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1,American Hereos Channel
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1,Animal Planet
-http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1,Bally Sports Florida
-https://fl6.moveonjoy.com/BALLY_SPORTS_FLORIDA/index.m3u8
-#EXTINF:-1,beIN Sports
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1,BET
-http://fl2.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1,BET Her East
-http://fl2.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1,Big Ten Network
-http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1,Bloomberg
-http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1,Bravo
-http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1,Cartoon Network
-https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1,CBS
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1,CBS Sports Network
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1,Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1,Cooking Channel
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1,C-SPAN
-http://fl2.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1,Discovery Family
-http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1,Discovery Life
-http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1,Disney Channel
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1,Disney Jr.
-https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1,E Entertainment
-http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1,Freeform East
-http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1,Food Network
-http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1,FUSE
-http://fl2.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1,Hallmark Drama
-http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1,ION
-http://fl2.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1,Motor Trend
-http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1,MTV Live
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1,MTV 2
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1,MLB Network
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1,MTV
-https://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1,National Geographic East
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1,National Geographi Wild
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1,NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1,NHL Network
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1,Outdoor Channel
-http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1,OWN
-http://fl2.moveonjoy.com/OWN/index.m3u8
-#EXTINF:-1,Paramount Network East
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1,ReelzChannel
-http://fl2.moveonjoy.com/REELZ/index.m3u8
-#EXTINF:-1,Revolt
-http://fl2.moveonjoy.com/REVOLT/index.m3u8
-#EXTINF:-1,SEC Network
-https://fl6.moveonjoy.com/SEC_NETWORK/index.m3u8
-#EXTINF:-1,Showtime Next
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1,Showtime Women East
-http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1,Starz Encore
-http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1,Starz
-http://fl2.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1,SYFY
-http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1,SUNDANCE
-http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1,tbs
-http://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1,Tennis Channel
-https://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1,The Weather Channel
-http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1,TNT
-http://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1,TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1,TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1,TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1,TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1,TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1,East
-http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1,TV One
-http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1,USA Network
-http://fl2.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1,VH1
-http://fl2.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1,Vice
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1,WE TV
-http://fl1.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1,YES Network
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1,Comedy Central
-http://38.96.178.201/live/ComedyCentral/index.m3u8
-#EXTINF:-1,Food Network
-http://38.96.178.201/live/FoodNetwork/index.m3u8
-#EXTINF:-1,Tennis
-http://38.96.178.201/live/TENNIS/index.m3u8
-#EXTINF:-1,HBC HD
-http://38.96.178.201/live/NBCHD/index.m3u8
-#EXTINF:-1,Animal Planet
-http://38.96.178.201/live/AnimalPlanet/index.m3u8
-#EXTINF:-1,SYFY HD
-http://38.96.178.201/live/SYFYHD/index.m3u8
-#EXTINF:-1,ABC HD
-http://38.96.178.201/live/ABCHD/index.m3u8
-#EXTINF:-1,Discovery
-http://38.96.178.201/live/Discovery/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://38.96.178.201/live/CartoonNetwork/index.m3u8
+#EXTINF:-1,Brazzers TV Europe
+http://31.148.48.15/Brazzers_TV_Europe/playlist.m3u8
+#EXTINF:-1,French Lover
+http://31.148.48.15/French_Lover/mono.m3u8
+#EXTINF:-1,Playboy TV
+http://31.148.48.15/Playboy_TV/playlist.m3u8
+#EXTINF:-1,Playboy HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1,EBS+ 1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,Korean Music
 http://live.kytv.co.kr:8080/hls/stream.m3u8
-#EXTINF:-1,Eurosport 1 西语
-http://185.189.225.150:85/Eurosport1/index.m3u8
-#EXTINF:-1,Eurosport 2 西语
-http://185.189.225.150:85/Eurosport2/index.m3u8
-#EXTINF:-1,90's
+#EXTINF:-1,MTV 90's
 http://185.189.225.157/mtv90s/index.m3u8
-#EXTINF:-1,MTV Hits
+#EXTINF:-1,Hits
 http://185.189.225.157/MTVHits/index.m3u8
-#EXTINF:-1,C-SPAN
-http://143.244.60.97/C-SPAN/index.m3u8
-#EXTINF:-1,Disney Jr.
-http://143.244.60.97/DISNEY_JR/index.m3u8
-#EXTINF:-1,HGTV
-http://143.244.60.97/HGTV/index.m3u8
-#EXTINF:-1,Animal Planet
-http://143.244.60.97/Animal_Planet/index.m3u8
 #EXTINF:-1,Animal Planet
 http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1,MSNBC
@@ -1077,78 +531,8 @@ http://tencentplay.gztv.com/live/zonghes.m3u8
 http://tencentplay.gztv.com/live/yingshi.m3u8
 #EXTINF:-1,广州南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8
-#EXTINF:-1,10
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-#EXTINF:-1,央视台球
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-#EXTINF:-1,第一剧场
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
-#EXTINF:-1,指南
-http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1,CHC影迷电影
-http://[2409:8087:7008:20::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1,CHC影迷电影
-http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1,CHC家庭影院
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-#EXTINF:-1,游戏风云
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1,西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8
-#EXTINF:-1,海峡卫视
-https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8
-#EXTINF:-1,江西卫视
-https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
-#EXTINF:-1,陕西卫视
-http://stream.snrtv.com/sxbc-star-xAE013.m3u8
-#EXTINF:-1,陕西新闻资讯
-http://gxlive.snrtv.com/sx1-SD.m3u8
-#EXTINF:-1,陕西都市青春
-http://gxlive.snrtv.com/sx2-SD.m3u8
-#EXTINF:-1,陕西银铃
-http://gxlive.snrtv.com/sx3-SD.m3u8
-#EXTINF:-1,陕西秦腔
-http://gxlive.snrtv.com/sx5-SD.m3u8
-#EXTINF:-1,陕西体育休闲
-http://gxlive.snrtv.com/sx7-SD.m3u8
-#EXTINF:-1,陕西西部电影
-http://gxlive.snrtv.com/sx8-SD.m3u8
-#EXTINF:-1,纪实人文
-http://39.134.136.161:6610/000000001000/7081356299464623208/index.m3u8
-#EXTINF:-1,东方影视
-http://39.134.136.161:6610/000000001000/2000000002000000013/index.m3u8
-#EXTINF:-1,Hot亚洲影院
-http://39.134.136.161:6610/000000001000/5841816227539527643/index.m3u8
-#EXTINF:-1,Hot欧美影院
-http://39.134.136.161:6610/000000001000/7185203501769528108/index.m3u8
-#EXTINF:-1,中国天气
-http://39.134.136.161:6610/000000001000/2000000002000000057/index.m3u8
-#EXTINF:-1,亚洲影院
-http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8
-#EXTINF:-1,欧美影院
-http://39.134.136.161:6610/000000001000/2000000004000000005/index.m3u8
-#EXTINF:-1,哈哈炫动
-http://39.134.136.161:6610/000000001000/5101217554085087042/index.m3u8
-#EXTINF:-1,上海都市
-http://39.134.136.161:6610/000000001000/2000000002000000012/index.m3u8
-#EXTINF:-1,生活时尚
-http://39.134.136.161:6610/000000001000/2000000002000000006/index.m3u8
-#EXTINF:-1,第一财经
-http://39.134.136.161:6610/000000001000/2000000002000000004/index.m3u8
-#EXTINF:-1,五星体育
-http://39.134.136.161:6610/000000001000/2000000002000000007/index.m3u8
-#EXTINF:-1,睛彩篮球
-http://39.134.136.161:6610/000000001000/1000000006000270002/index.m3u8
-#EXTINF:-1,睛彩广场舞
-http://39.134.136.161:6610/000000001000/1000000006000270005/index.m3u8
-#EXTINF:-1,2
-http://39.134.136.161:6610/000000001000/5000000011000031101/index.m3u8
-#EXTINF:-1,5
-http://39.134.136.161:6610/000000001000/reallive-cctv5/index.m3u8
-#EXTINF:-1,上海新闻综合
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000005/index.m3u8
-#EXTINF:-1,上海都市
-http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000012/index.m3u8
+#EXTINF:-1,兵团卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1,Animal Planet
 http://212.102.60.231:80/Animal_Planet/index.m3u8
 #EXTINF:-1,Live
@@ -1173,3 +557,127 @@ http://212.102.60.231:80/MTV/index.m3u8
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1,nick jr.
 http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1,浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1,浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1,浙江综合
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1,浙江影视娱乐
+https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1,浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1,浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1,浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1,浙江之江记录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1,台 卡塔尔
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,aMC 电影
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1,AMC Thrillers 电影
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1,arirang Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,arirang Korea
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1,astro AWANI 马来西亚
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1,Bloomberg 美国
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1,Bloomberg 亚洲
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1,CBN News 美国
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,CBS News 美国
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1,CBS News 美国
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1,CBS Mixible (ET)
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTINF:-1,CBS Sports
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1,CNA 新加坡
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,DW 德国
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1,EWTN 宗教
+https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
+#EXTINF:-1,Fashion TV Midnite
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Fite TV
+https://4d362f8e.wurl.com/U3BvcnRzVFZfUEZMTU1BX0hMUw/playlist.m3u8
+#EXTINF:-1,Global NEWS 加拿大
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1,Horror Machine
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
+#EXTINF:-1,INDIA TODAY
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1,INDIA TODAY
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1,KMTV 3 News Now OMAHA
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1,Kordia TV 音乐
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1,M2o 音乐
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
+#EXTINF:-1,mix fm 音乐
+http://strm.mixlive.eu/mixfm/tracks-v3a1/mono.m3u8
+#EXTINF:-1,MOTO AMERICA TV
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
+#EXTINF:-1,MOVIE SPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,MTV Hits
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8
+#EXTINF:-1,NBC Home
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1,New Movies 韩国电影
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+#EXTINF:-1,New Movies 韩国电影
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+#EXTINF:-1,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,Real Wild 新西兰
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,Rush by AMC 电影
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1,Russia Today 俄罗斯
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1,Russia Today 俄罗斯
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1,Russia Today Documentary 俄罗斯
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1,SBS 韩国
+http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
+#EXTINF:-1,Schwab Network 财经
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1,TAIWAN PLUS
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1,The Weather Channel
+https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
+#EXTINF:-1,TNT 体育频道 美国
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1,True History
+https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
+#EXTINF:-1,tv Peru
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1,V2Beat 音乐
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1,WildEarth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1,WildEarth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1,Yahoo Finance (雅虎财经 英文频道)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
