@@ -147,6 +147,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1,bravo
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1,广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8
 #EXTINF:-1,广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8
 #EXTINF:-1,广州影视
@@ -179,6 +181,8 @@ http://212.102.60.231:80/MTV/index.m3u8
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1,nick jr.
 http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1,浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1,浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1,浙江综合
@@ -272,6 +276,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1,Rush by AMC 电影
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1,Russia Today 俄罗斯
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1,Russia Today 俄罗斯
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1,Russia Today Documentary 俄罗斯
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -285,6 +291,8 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
 #EXTINF:-1,TNT 体育频道 美国
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1,True History
 https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 #EXTINF:-1,tv Peru
@@ -327,6 +335,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1,bravo
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1,广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8
 #EXTINF:-1,广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8
 #EXTINF:-1,广州影视
@@ -359,6 +369,8 @@ http://212.102.60.231:80/MTV/index.m3u8
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1,nick jr.
 http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1,浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1,浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1,浙江综合
@@ -452,6 +464,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1,Rush by AMC 电影
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1,Russia Today 俄罗斯
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1,Russia Today 俄罗斯
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1,Russia Today Documentary 俄罗斯
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -465,6 +479,8 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
 #EXTINF:-1,TNT 体育频道 美国
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1,True History
 https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 #EXTINF:-1,tv Peru
@@ -507,6 +523,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1,bravo
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1,广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8
 #EXTINF:-1,广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8
 #EXTINF:-1,广州影视
@@ -539,6 +557,8 @@ http://212.102.60.231:80/MTV/index.m3u8
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1,nick jr.
 http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1,浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1,浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1,浙江综合
@@ -632,6 +652,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1,Rush by AMC 电影
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1,Russia Today 俄罗斯
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1,Russia Today 俄罗斯
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1,Russia Today Documentary 俄罗斯
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -645,6 +667,8 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
 #EXTINF:-1,TNT 体育频道 美国
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1,True History
 https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 #EXTINF:-1,tv Peru
