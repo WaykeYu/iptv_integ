@@ -65,20 +65,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-
 #EXTGRP:體育頻道
 #EXTINF:-1,ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1,NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1,Real Madrid 皇马足球俱乐部
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1,ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1,NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1,Real Madrid 皇马足球俱乐部
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1,ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1,NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1,Real Madrid 皇马足球俱乐部
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
@@ -141,7 +135,7 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1,MTV 90's
 http://185.189.225.157/mtv90s/index.m3u8
-#EXTINF:-1,MTV Hits
+#EXTINF:-1,Hits
 http://185.189.225.157/MTVHits/index.m3u8
 #EXTINF:-1,Animal Planet
 http://41.205.93.154/ANIMALPLANET/index.m3u8
@@ -153,6 +147,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1,bravo
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1,广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8
 #EXTINF:-1,广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8
 #EXTINF:-1,广州影视
@@ -163,7 +159,7 @@ http://tencentplay.gztv.com/live/nanguodushi.m3u8
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1,Animal Planet
 http://212.102.60.231:80/Animal_Planet/index.m3u8
-#EXTINF:-1,MTV Live
+#EXTINF:-1,Live
 http://212.102.60.231:80/MTV_LIVE/index.m3u8
 #EXTINF:-1,HGTV
 http://212.102.60.231:80/HGTV/index.m3u8
@@ -185,6 +181,8 @@ http://212.102.60.231:80/MTV/index.m3u8
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1,nick jr.
 http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1,浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1,浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1,浙江综合
@@ -219,8 +217,6 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1,Bloomberg 亚洲
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1,Boxing TV
-https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1,CBN News 美国
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1,CBS News 美国
@@ -280,6 +276,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1,Rush by AMC 电影
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1,Russia Today 俄罗斯
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1,Russia Today 俄罗斯
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1,Russia Today Documentary 俄罗斯
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -287,14 +285,14 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
 #EXTINF:-1,Schwab Network 财经
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
-#EXTINF:-1,Story TV
-https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1,TAIWAN PLUS
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1,The Weather Channel
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
 #EXTINF:-1,TNT 体育频道 美国
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1,True History
 https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 #EXTINF:-1,tv Peru
@@ -305,8 +303,6 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1,WildEarth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1,World Poker Tour
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1,Yahoo Finance (雅虎财经 英文频道)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Blue Hustler
@@ -327,7 +323,7 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1,MTV 90's
 http://185.189.225.157/mtv90s/index.m3u8
-#EXTINF:-1,MTV Hits
+#EXTINF:-1,Hits
 http://185.189.225.157/MTVHits/index.m3u8
 #EXTINF:-1,Animal Planet
 http://41.205.93.154/ANIMALPLANET/index.m3u8
@@ -339,6 +335,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1,bravo
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1,广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8
 #EXTINF:-1,广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8
 #EXTINF:-1,广州影视
@@ -349,7 +347,7 @@ http://tencentplay.gztv.com/live/nanguodushi.m3u8
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1,Animal Planet
 http://212.102.60.231:80/Animal_Planet/index.m3u8
-#EXTINF:-1,MTV Live
+#EXTINF:-1,Live
 http://212.102.60.231:80/MTV_LIVE/index.m3u8
 #EXTINF:-1,HGTV
 http://212.102.60.231:80/HGTV/index.m3u8
@@ -371,6 +369,8 @@ http://212.102.60.231:80/MTV/index.m3u8
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1,nick jr.
 http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1,浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1,浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1,浙江综合
@@ -405,8 +405,6 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1,Bloomberg 亚洲
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1,Boxing TV
-https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1,CBN News 美国
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1,CBS News 美国
@@ -466,6 +464,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1,Rush by AMC 电影
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1,Russia Today 俄罗斯
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1,Russia Today 俄罗斯
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1,Russia Today Documentary 俄罗斯
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -473,14 +473,14 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
 #EXTINF:-1,Schwab Network 财经
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
-#EXTINF:-1,Story TV
-https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1,TAIWAN PLUS
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1,The Weather Channel
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
 #EXTINF:-1,TNT 体育频道 美国
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1,True History
 https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 #EXTINF:-1,tv Peru
@@ -491,8 +491,6 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1,WildEarth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1,World Poker Tour
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1,Yahoo Finance (雅虎财经 英文频道)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Blue Hustler
@@ -513,7 +511,7 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 http://live.kytv.co.kr:8080/hls/stream.m3u8
 #EXTINF:-1,MTV 90's
 http://185.189.225.157/mtv90s/index.m3u8
-#EXTINF:-1,MTV Hits
+#EXTINF:-1,Hits
 http://185.189.225.157/MTVHits/index.m3u8
 #EXTINF:-1,Animal Planet
 http://41.205.93.154/ANIMALPLANET/index.m3u8
@@ -525,6 +523,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1,bravo
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1,广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8
 #EXTINF:-1,广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8
 #EXTINF:-1,广州影视
@@ -535,7 +535,7 @@ http://tencentplay.gztv.com/live/nanguodushi.m3u8
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1,Animal Planet
 http://212.102.60.231:80/Animal_Planet/index.m3u8
-#EXTINF:-1,MTV Live
+#EXTINF:-1,Live
 http://212.102.60.231:80/MTV_LIVE/index.m3u8
 #EXTINF:-1,HGTV
 http://212.102.60.231:80/HGTV/index.m3u8
@@ -557,6 +557,8 @@ http://212.102.60.231:80/MTV/index.m3u8
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1,nick jr.
 http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1,浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1,浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1,浙江综合
@@ -591,8 +593,6 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1,Bloomberg 亚洲
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1,Boxing TV
-https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1,CBN News 美国
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1,CBS News 美国
@@ -652,6 +652,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1,Rush by AMC 电影
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1,Russia Today 俄罗斯
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1,Russia Today 俄罗斯
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1,Russia Today Documentary 俄罗斯
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -659,14 +661,14 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
 #EXTINF:-1,Schwab Network 财经
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
-#EXTINF:-1,Story TV
-https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1,TAIWAN PLUS
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1,The Weather Channel
 https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
 #EXTINF:-1,TNT 体育频道 美国
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1,True History
 https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 #EXTINF:-1,tv Peru
@@ -677,7 +679,5 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1,WildEarth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1,World Poker Tour
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1,Yahoo Finance (雅虎财经 英文频道)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
