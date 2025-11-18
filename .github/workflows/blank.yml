@@ -2,12 +2,9 @@ name: iptv收集合併濾重及確認有效性
 
 on:
   schedule:
-    - cron: '10 23 * * *' # 这里更改自动运行的时间
+    - cron: '10 23 * * *'
   workflow_dispatch:
-    branches:
-      - main
 
-   
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,6 +12,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+
+      - name: Fix DNS
+        run: |
+          sudo sed -i '1inameserver 8.8.8.8' /etc/resolv.conf
+          sudo sed -i '2inameserver 1.1.1.1' /etc/resolv.conf
+          echo "DNS fixed"
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -24,41 +27,32 @@ jobs:
       - name: Upgrade pip and install dependencies
         run: |
           pip install --upgrade pip
-          pip install selenium requests futures eventlet opencv-python Beautifulsoup4 translate termcolor func_timeout replace input opencc pypinyin pytz tqdm
+          pip install selenium webdriver-manager requests futures eventlet opencv-python Beautifulsoup4 translate termcolor func_timeout replace input opencc pypinyin pytz tqdm
           pip install -r requirements.txt
-          pip install selenium webdriver-manager
 
-      - name: 設定 Git 使用者資訊
+      - name: Git config
         run: |
-         git config --global user.name "WaykeYu"
-         git config --global user.email "waykeyu@example.com"
-     
-      - name: Run py
-        run: python ${{ github.workspace }}/py/net-collect.py   
-          
-      - name: Run py
-        run: python ${{ github.workspace }}/py/collect.py
-    
-      - name: Run py
-        run: python ${{ github.workspace }}/py/integ.py
+          git config --global user.name "WaykeYu"
+          git config --global user.email "waykeyu@example.com"
 
-      #- name: Run py
-        #run: python ${{ github.workspace }}/py/confirm.py     
-        
-     
-      # readme.md
-      - name: Get current date
-        id: date
-        run: echo "date=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
+      - name: Run net-collect
+        run: python py/net-collect.py
+
+      - name: Run collect
+        run: python py/collect.py
+    
+      - name: Run integ
+        run: python py/integ.py
+
+      - name: Update README
+        run: |
           echo -e "過濾重覆及有效性自動檢測IPTV $(date +'%Y-%m-%d %H:%M:%S CST')\n" > README.md
 
-      # 提交和推送的步骤，不再检查文件是否发生变化
       - name: Commit and push changes
         run: |
           git config --local user.email "actions@126.com"
           git config --local user.name "GitHub Action"
           git add .
-          #即使没有文件改变，也会提交一个空的提交
           git commit --allow-empty -m "Scheduled workflow run"
           git pull --rebase
           git push -f
