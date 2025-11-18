@@ -10,7 +10,7 @@ FILE_PATH = os.path.join(LOCAL_REPO_PATH, "source/m3u/1888.m3u")
 # 目標資料來源（JS/JSON/API，不需要 Selenium）
 SOURCES = {
     "yibababa_vod": "https://www.yibababa.com/static/js/playerconfig.js",
-    "aktv": "https://aktv.top/live.json",
+#   "aktv": "https://aktv.top/live.json",
     "yibababa_tw": "https://yibababa.com/live/tw.json"
 }
 
