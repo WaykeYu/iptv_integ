@@ -8,7 +8,7 @@ BRANCH = "main"
 
 # 下載文件的 URL
 FILE_URLS = [
-    "https://aktv.top/live.m3u",
+    #"https://aktv.top/live.m3u",
     "https://raw.githubusercontent.com/WaykeYu/MyTV_tw/refs/heads/main/TW_allsource",
     "https://epg.pw/test_channels_taiwan.m3u",
     "https://iptv-org.github.io/iptv/countries/tw.m3u",
