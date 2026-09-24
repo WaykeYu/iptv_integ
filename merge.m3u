@@ -377,8 +377,6 @@ https://stream1.freetv.fun/366a3588d09381efa33ffe4e332191e6a8d7d507fb293f2109acc
 https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.m3u8
 #EXTINF:-1 tvg-name="經典電影臺" tvg-id="370259" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/02/28/large/20240228002632629515_75.png" group-title="電影",[VGA]经典香港电影
 https://stream1.freetv.fun/aa72403ee21188014b4d48c19f6d9b1ca52d877e3151d5e2273952d3f52012ba.ctv
-#EXTINF:-1 tvg-name="經典電影臺" tvg-id="370259" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/02/28/large/20240228002632629515_75.png" group-title="電影",[HD]经典香港电影
-https://stream1.freetv.fun/ff96b1e65b5eb81db7b27a7ba467f8dd81363f1560e54d999886a4802d0c51d8.ctv
 #EXTINF:-1 tvg-name="經典電影臺" tvg-id="" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/04/28/large/20230428003944893108_94.jpg" group-title="電影",[SD]林正英-经典电影
 https://stream1.freetv.fun/a2125352866b22816bea4c47644e03863936c3bcff3ada38adb28cee08371b42.ctv
 #EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies;Series",AXN Asia Taiwan (1080p)
